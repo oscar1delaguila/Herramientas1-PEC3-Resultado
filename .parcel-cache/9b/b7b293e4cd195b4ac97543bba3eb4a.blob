@@ -1,0 +1,313 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+
+
+
+	<meta charset="utf-8">
+	<meta name="author" content="Oscar del Aguila">
+
+	<!--
+		Esta metaetiqueta informa a los navegadores de los dispositivos móviles que deben establecer el ancho de la ventana gráfica 
+		al ancho del dispositivo y escalar el documento al 100% de ese tamaño, de modo que el documento se mostrará al tamaño optimizado para 
+		esos dispositivos móviles.
+		¿Por qué esto es necesario? Porque los navegadores de los dispositivos móviles tienden a mentir sobre el ancho de su ventana gráfica.
+	-->
+
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	<link rel="shortcut icon" href="2e25ff80d9deae44294e90349b1d9b24">
+
+	<link rel="preconnect" href="516c5909c8a6d6f959138b6f8b6621ef">
+	<link href="6ac75bb0ff0d8c825fe7c250b4d3f5b5" rel="stylesheet">
+
+	
+	
+	<link rel="stylesheet" type="text/css" href="7da0f2f4d28fe9b7d38c210f362e3231">
+
+	<link rel="stylesheet" type="text/css" href="1f07e3d4178e41e42c20ff31dac0b616">
+		
+
+	<title>Categorías</title>
+
+
+</head>
+
+
+<body>
+	
+
+	<header id="cabecera">
+			
+				<div>
+					<div>
+						<a href="d3881ab4914586d3c24e39f95efed130">
+							
+							<svg width="210" height="297" viewbox="0 0 210 297" class="clase-rotar"> 
+								<g style="39fb3a2521b8c7f5ffa471c6c3f55c54">
+									<ellipse style="492ea2dde9746f85b76174437b0bb926" id="path151" cx="103.80093" cy="146.38376" rx="78.300819" ry="126.75503"></ellipse>
+								</g>
+								<g>
+								<rect style="1ba63c737067aad8491af9f2995d2e70" id="rect10" width="6.71807" height="79.525116" x="53.110405" y="69.131561"></rect>
+									<rect style="3839b539c2457e992e1d0555c84176cd" id="rect10-3" width="6.71807" height="79.525116" x="73.26461" y="69.769463"></rect>
+									<rect style="fe12053b8e335e8caf5baa26943c502f" id="rect10-3-9" width="6.71807" height="79.525116" x="92.902031" y="69.344193"></rect>
+									<rect style="aa3295ed3029e464d6c851a64bb51e4f" id="rect74" width="46.509716" height="11.056962" x="53.110405" y="148.65668"></rect>
+									<rect style="869d7025f43dfe66a0509baa6ce41c3a" id="rect10-3-1" width="6.71807" height="79.525116" x="73.781395" y="158.6505"></rect>
+									<ellipse style="99b8f5c9aa66cf4cdef636577d1baaca" id="path96" cx="139.01102" cy="115.01494" rx="19.932734" ry="46.48711"></ellipse>
+									<rect style="4dfca7a4f0b87c906d86223dc83c3e6c" id="rect10-3-1-6" width="6.71807" height="79.525116" x="135.1774" y="160.98187"></rect>
+									<ellipse style="34c6e16956eb362a156cde0254570c71" id="path120" cx="148.97736" cy="103.84595" rx="3.3221223" ry="9.3577948"></ellipse>
+								</g>
+								</svg>
+
+						</a>
+					</div>
+					<div><a href="d3881ab4914586d3c24e39f95efed130">La Cocina de la Abuela</a></div>
+				</div>
+
+				<nav>
+					<ul>                                       
+						<li><a href="3bfce835b7db996cf852706c2eef5358" class="activado">COCINAS</a></li>
+						<li><a href="975b952ff9abe7cf3ac127ac668b5c49">PRESENTACIÓN</a></li>
+						<li><a href="e7872e2214c39b337fcfa1b539ef6982">ENLACES</a></li>
+					</ul>
+				</nav>
+
+
+	</header>
+
+
+	<main>
+
+		<article>
+		
+		<h1 id="cocina-mediterranea">La cocina de la abuela mediterranea</h1>
+
+		<div class="container">
+
+			<div>
+				<figure>
+
+						<picture>
+
+							<source media="(max-width: 768px)" srcset="bf8efba27a301944cfbd2dcad66a1aa5 1x,bf8efba27a301944cfbd2dcad66a1aa5 1.5x,63bb4c60be2a7b0f304a751fceb34a5d 2x,88e8e3c1f377ed97d8fdd6f8ef347557 3x">					
+
+							<img srcset="d45fb77c8b77ab979e34f18e04679e9a 640w,63bb4c60be2a7b0f304a751fceb34a5d 1280w,88e8e3c1f377ed97d8fdd6f8ef347557 1920w" sizes="calc(70vw - 46.6vw - 3vw)" src="d45fb77c8b77ab979e34f18e04679e9a" alt="Habas a la catalana">
+
+					</picture>	
+						
+
+
+					<figcaption>
+
+					    <p class=""><i class="fas fa-seedling"></i> Habas a la catalana</p>
+					    <p>No hay mejor que unas habas a la catalana para conocer un poquito la gastronomía catalana.</p>
+						
+					</figcaption>
+
+				</figure>
+				<div class="boton"><a href="814693f7ed7ac3cdbf5d6be4dce68f5e">La receta</a></div>
+			</div>
+
+			<div>
+
+
+				<figure>
+
+					<picture>
+
+							<source media="(max-width: 768px)" srcset="bf8efba27a301944cfbd2dcad66a1aa5 1x,bf8efba27a301944cfbd2dcad66a1aa5 1.5x,c0753a87a8b9ad367b28521fee466057 2x,cdd9ac406a3a9556f7a1f435ddfdd378 3x">					
+
+							<img srcset="bf8efba27a301944cfbd2dcad66a1aa5 640w,c0753a87a8b9ad367b28521fee466057 1280w,cdd9ac406a3a9556f7a1f435ddfdd378 1920w" sizes="calc(70vw - 46.6vw - 3vw)" src="bf8efba27a301944cfbd2dcad66a1aa5" alt="Potaje de garbanzos">
+
+					</picture>	
+
+
+					<figcaption class=" ">
+					    <p class=""><i class="fas fa-seedling"></i> Potaje de Garbanzos</p>
+					    <p>Para entrar en calor no hay nada mejor que comerse un plato de este calibre en pleno invierno.</p>
+						
+					</figcaption>
+					
+				</figure>
+				<div class="boton"><a href="66c3abf4b6be1db80d41712862fc6c46">La receta</a></div>	
+			</div>
+			<div>
+				<figure>
+			
+
+					<picture>
+
+							<source media="(max-width: 768px)" srcset="09a7612dae5855cff387f1e535aefb48 1x,09a7612dae5855cff387f1e535aefb48 1.5x,be8c76b6d29b74ba0dde56d26a58d61d 2x,67f84b4040f88100c69441afa1aca755 3x">					
+
+							<img srcset="09a7612dae5855cff387f1e535aefb48 640w,be8c76b6d29b74ba0dde56d26a58d61d 1280w,67f84b4040f88100c69441afa1aca755 1920w" sizes="calc(70vw - 46.6vw - 3vw)" src="09a7612dae5855cff387f1e535aefb48" alt="Cocido de garbanzos">
+
+					</picture>	
+
+						
+
+					<figcaption class=" ">
+					    <p class=""><i class="fas fa-seedling"></i> Cocido de garbanzos</p>
+					    <p>Típico plato de la capital de España: el cocido madrileño.</p>
+						
+					</figcaption>
+
+				</figure>
+				<div class="boton"><a href="04b9450bfa8d5f84ea2a8723d0d602d7">La receta</a></div>
+			</div>
+		</div>
+
+		<h1 id="cocina-peruana">La cocina de la abuela peruana</h1>
+
+		<div class="container">
+			<div>
+				<figure>
+
+					
+					<picture>
+
+						<source media="(max-width: 768px)" srcset="a4b61ec72446e5132804dd6a32a6a975 1x,a4b61ec72446e5132804dd6a32a6a975 1.5x,01a0fd39ddd8ce6bcd3331545a6c187f 2x,382a7aea6cce332b347f56840828ead6 3x">					
+
+						<img srcset="a4b61ec72446e5132804dd6a32a6a975 640w,01a0fd39ddd8ce6bcd3331545a6c187f 1280w,382a7aea6cce332b347f56840828ead6 1920w" sizes="calc(70vw - 46.6vw - 3vw)" src="a4b61ec72446e5132804dd6a32a6a975" alt="Ceviche peruano">
+
+					</picture>	
+
+					
+
+					<figcaption class=" ">
+					    <p class=""><i class="fas fa-fish"></i> Pescados</p>
+					    <p>Si queremos conocer la cultura andina desde sus origenes debemos degustar este plato frío ancestral...</p>
+					</figcaption>
+
+				</figure>
+				<div class="boton"><a href="e44f5e7c2e6d354bcc5649d1318597d7">La receta</a></div>
+			</div>	
+			<div>
+
+				<figure>
+			
+					<picture>
+
+							<source media="(max-width: 768px)" srcset="32cae1a436eb63d208da7e1afdf0c31d 1x,32cae1a436eb63d208da7e1afdf0c31d 1.5x,0595d52c982b064dcdae9eb5ab29a462 2x">					
+
+							<img srcset="32cae1a436eb63d208da7e1afdf0c31d 640w,0595d52c982b064dcdae9eb5ab29a462 1250w" sizes="calc(70vw - 46.6vw - 3vw)" src="32cae1a436eb63d208da7e1afdf0c31d" alt="Mazamorra morada">
+
+					</picture>	
+
+
+
+					<figcaption class=" ">
+					    <p class=""><i class="fas fa-ice-cream"></i> Mazamorra morada </p>
+					    <p>¿A quién no le gustan los postres? La mazamorra es el predilecto de los peruanos.</p>
+						
+					</figcaption>
+				</figure>
+				<div class="boton"><a href="2d82d993726d6f649c8e5346ba1bb149">La receta</a></div>
+			</div>	
+			<div>
+				<figure>
+			
+					
+					<picture>
+
+							<source media="(max-width: 768px)" srcset="31c896fe3c87639eac70e1e7697b648a 1x,31c896fe3c87639eac70e1e7697b648a 1.5x,acd15841175092f869d0539809b5c977 2x">					
+
+							<img srcset="31c896fe3c87639eac70e1e7697b648a 600w,acd15841175092f869d0539809b5c977 1250w" sizes="calc(70vw - 46.6vw - 3vw)" src="31c896fe3c87639eac70e1e7697b648a" alt="Cabrito a la norteña">
+
+				    </picture>	
+					
+					<figcaption class=" ">
+					    <p class=""><i class="fas fa-drumstick-bite"></i> Cabrito a la norteña </p>
+					    <p>Este plato es un plato fuerte y muy sabroso. ¡¡¡Encuentra el cabrito en tu mercado y hazlo!!!</p>
+					</figcaption>
+
+				</figure>
+				<div class="boton"><a href="ff2e944aa4b09de1315054f70d9b16af">La receta</a></div>
+
+			</div>	
+
+		</div>
+
+		</article>
+
+	</main>
+
+	<footer>
+		
+		
+		<ul><li><a href="">Aviso Legal</a><span> · </span></li><li><a href="">Política de privacidad</a></li></ul>
+
+		<div>
+		
+		<ul><li>Mapa del sitio:</li></ul>	
+
+		<svg width="1500.5591" height="850.51971" viewbox="0 0 397.02292 225.03335" id="svg8">
+		<g style="c3d93c953b3e40bc69fc7750fa2d19a9">
+			<rect style="dbdf3eb8325a2afbabc32c297d2c1857" id="rect352-8" width="19.807438" height="12.886046" x="24.916321" y="177.01732"></rect>
+			<rect style="8d5fb5bfa1972c90af629df0e642aa16" id="rect352-8-0" width="19.807438" height="12.886046" x="23.860241" y="12.419244"></rect>
+			<rect style="c4631d9f3415b4a3811cedbd770f0b7c" id="rect352-8-6" width="19.807438" height="12.886046" x="24.724529" y="44.087463"></rect>
+			<rect style="a477c4611e40f7cc3ee756663a968a3c" id="rect352-8-3" width="19.807438" height="12.886046" x="24.85778" y="207.16136"></rect>
+			<rect style="f19c7cb793cb0d1a5cf7602f7f723140" id="rect352-8-6-2" width="19.807438" height="12.886046" x="54.321545" y="73.951981"></rect>
+			<rect style="5b3743f8b57c27d16ecef277ec27d769" id="rect352-8-6-0" width="19.807438" height="12.886046" x="54.475475" y="103.76269"></rect>
+			<rect style="43b11e819534dc12b1f1afe7d55d7628" id="rect352-8-6-6" width="19.807438" height="12.886046" x="54.790928" y="132.65613"></rect>
+			<rect style="5039d3f8127d1a1c10cb28da8070895f" id="rect352-8-6-1" width="19.807438" height="12.886046" x="238.38635" y="104.91351"></rect>
+			<rect style="c5b8a818f914305fb7a8c78ac6d84a0f" id="rect352-8-6-5" width="19.807438" height="12.886046" x="238.49783" y="73.693672"></rect>
+			<rect style="5b47cc541c2d928d22bd64c0f9e8434b" id="rect352-8-6-54" width="19.807438" height="12.886046" x="239.16774" y="136.3979"></rect>
+			<a href="d3881ab4914586d3c24e39f95efed130">
+			<text xml:space="preserve" style="bd34a74c77196738d447264e7e47f098" x="43.667679" y="25.30529" id="text677"><tspan id="tspan675" x="43.667679" y="25.30529" style="908228709f211d7c2972dfd6cd7000c6">  Inicio</tspan>           </text>
+			</a>
+			<a href="3bfce835b7db996cf852706c2eef5358">
+			<text xml:space="preserve" style="a4fc937af468be3dede22f0062c13514" x="44.531967" y="56.973507" id="text681"><tspan id="tspan679" x="44.531967" y="56.973507" style="479c56bd31f2f50878749af57acaf668">  Cocinas</tspan></text>
+			</a>
+			<a href="975b952ff9abe7cf3ac127ac668b5c49">
+			<text xml:space="preserve" style="a9e9aa09cbab4e9aaa570d4530856f17" x="44.723759" y="189.90337" id="text685"><tspan id="tspan683" x="44.723759" y="189.90337" style="9334f871c2a340f63d34548d2b26e5be">  Presentación</tspan></text>
+			</a>
+			<a href="e7872e2214c39b337fcfa1b539ef6982">
+			<text xml:space="preserve" style="d6c72b39b31a45492776a9860259ffeb" x="44.665218" y="220.04741" id="text689"><tspan id="tspan687" x="44.665218" y="220.04741" style="662884e4e14a0eaccd2471ae53d4d57b"> Enlaces</tspan></text>
+			</a>
+			<a href="814693f7ed7ac3cdbf5d6be4dce68f5e">
+			<text xml:space="preserve" style="044f99898d12b724b91eeaaef6151d6f" x="74.128975" y="86.838028" id="text693"><tspan id="tspan691" x="74.128975" y="86.838028" style="14234b840dd71a4fd57e528f0b362a7d">  Habas Catalana</tspan></text>
+			</a>
+			<a href="66c3abf4b6be1db80d41712862fc6c46">
+			<text xml:space="preserve" style="9f1b192c690b8d72d67074073603aaf4" x="74.282906" y="116.64874" id="text697"><tspan id="tspan695" x="74.282906" y="116.64874" style="d889bd2bb1c8d3936805f705fb698fbc">  Potaje de Garbanzos</tspan></text>
+			</a>
+			<a href="04b9450bfa8d5f84ea2a8723d0d602d7">
+			<text xml:space="preserve" style="d61b042c7d53f099895b9349e44dbb05" x="74.598366" y="145.54218" id="text701"><tspan id="tspan699" x="74.598366" y="145.54218" style="ff9f05a687df96895f9cb14bc6908bab">  Cocido de Garbanzos </tspan></text>
+			</a>
+			<a href="e44f5e7c2e6d354bcc5649d1318597d7">
+			<text xml:space="preserve" style="d4e113927b43140f7a67cde30068e66a" x="258.30527" y="86.57972" id="text705"><tspan id="tspan703" x="258.30527" y="86.57972" style="550b118c57f8a0c0bb01db1fa3e43f0d">  Ceviche</tspan></text>
+			</a>
+			<a href="2d82d993726d6f649c8e5346ba1bb149">
+			<text xml:space="preserve" style="cf2592b449d3c5fa383c12536c11a4cd" x="258.19379" y="117.79955" id="text709"><tspan id="tspan707" x="258.19379" y="117.79955" style="cf86b75d7be1bd576a87a3885f004553">  Mazamorra</tspan></text>
+			</a>
+			<a href="ff2e944aa4b09de1315054f70d9b16af">
+			<text xml:space="preserve" style="ce40a7d50531aa72ce30f7b27897a4c7" x="258.97516" y="149.28395" id="text713"><tspan id="tspan711" x="258.97516" y="149.28395" style="0016736bf17a77d84292f4d8b1ff67d6">  Cabrito a la norteña</tspan></text>
+			</a>
+		</g>
+	 	</svg>
+	 
+
+		</div>	
+
+		<ul><li><a href="">Facebook <i class="fab fa-facebook-f"> </i></a><span> · </span></li>
+				<li><a href="">Twitter <i class="fab fa-twitter"> </i></a><span> · </span></li>
+				<li><a href="">Youtube <i class="fab fa-youtube"></i></a></li></ul>
+
+		<ul>
+		   
+		   <li> &copy; 2020 Oscar del Aguila Giménez</li>
+
+		</ul>
+
+			
+
+   </footer>	
+
+   <a href="#cabecera"><div class="desplazador-arriba"><i class="fas fa-chevron-circle-up"></i></div></a>	
+
+
+</body>
+</html>

@@ -1,0 +1,340 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+
+
+
+	<meta charset="utf-8">
+	<meta name="author" content="Oscar del Aguila">
+
+	<!--
+		Esta metaetiqueta informa a los navegadores de los dispositivos móviles que deben establecer el ancho de la ventana gráfica 
+		al ancho del dispositivo y escalar el documento al 100% de ese tamaño, de modo que el documento se mostrará al tamaño optimizado para 
+		esos dispositivos móviles.
+		¿Por qué esto es necesario? Porque los navegadores de los dispositivos móviles tienden a mentir sobre el ancho de su ventana gráfica.
+	-->
+
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	<link rel="shortcut icon" href="27b21a1c18f3d6bf780168b5678c7e58">
+
+	<link rel="preconnect" href="566c537765d579f3b9cf120c3971e900">
+	<link href="32a870850baa8fb99dde6c7bb8893093" rel="stylesheet">
+
+
+	<link rel="stylesheet" type="text/css" href="2564dd18fd4aa918b7bbef677ca74c56">
+	<link rel="stylesheet" type="text/css" href="eb925b06ad7e59b7f2e87994cdf79fc8">
+		
+
+	<title>Presentación</title>
+
+
+</head>
+
+
+<body>
+
+
+	<header id="cabecera">
+			
+				<div>
+					<div>
+						<a href="a4edc3088521d2613695c317b2f4ab8b">
+							<svg width="210" height="297" viewbox="0 0 210 297" class="clase-rotar"> 
+								<g style="1bae6c7f217c81ac6f62e061f1ec4c2e">
+									<ellipse style="5b5e7c96b3a5fce7a24ded997aab49ba" id="path151" cx="103.80093" cy="146.38376" rx="78.300819" ry="126.75503"></ellipse>
+								</g>
+								<g>
+								<rect style="48833e90738ac784ffcbddf444f35e67" id="rect10" width="6.71807" height="79.525116" x="53.110405" y="69.131561"></rect>
+									<rect style="9ad561f580dbe21ab4e01e98f9235ba9" id="rect10-3" width="6.71807" height="79.525116" x="73.26461" y="69.769463"></rect>
+									<rect style="c69f8b97054015106bf353aaddb2a376" id="rect10-3-9" width="6.71807" height="79.525116" x="92.902031" y="69.344193"></rect>
+									<rect style="63ab5923ccd4a9a38d5223973287a0a5" id="rect74" width="46.509716" height="11.056962" x="53.110405" y="148.65668"></rect>
+									<rect style="f67aacf93f2040deee384c6b34770e3d" id="rect10-3-1" width="6.71807" height="79.525116" x="73.781395" y="158.6505"></rect>
+									<ellipse style="d5a8d0aad278811842ddde09ce91eb1e" id="path96" cx="139.01102" cy="115.01494" rx="19.932734" ry="46.48711"></ellipse>
+									<rect style="acb3dfe11ad6fcbaf960c1e09bf7ed83" id="rect10-3-1-6" width="6.71807" height="79.525116" x="135.1774" y="160.98187"></rect>
+									<ellipse style="574363f736e54531b008839ca28843b7" id="path120" cx="148.97736" cy="103.84595" rx="3.3221223" ry="9.3577948"></ellipse>
+								</g>
+								</svg>
+
+						</a>
+					</div>
+					<div><a href="a4edc3088521d2613695c317b2f4ab8b">La Cocina de la Abuela</a></div>
+				</div>
+
+				<nav>
+					<ul>                                       
+						<li><a href="46fa1d7ea880ef88042432285d6cd0dc">COCINAS</a></li>
+						<li><a href="03be6e19db6e017567c9df83eb9f6e5b" class="activado">PRESENTACIÓN</a></li>
+						<li><a href="f87791b4cdee2350f5fba3abec6c337b">ENLACES</a></li>
+					</ul>
+				</nav>
+
+
+	</header>
+<main>
+
+
+	<article class="container-con-lateral">
+
+
+						<aside>
+							
+
+								<h1>Índice Contenido:</h1>
+								<ul>
+									<li><a href="#porque-esta-web">¿PORQUÉ ESTA WEB?</a></li>
+									<li><a href="#recetas-mediterraneas">RECETAS MEDITERRANEAS</a></li>
+									<li><a href="#recetas-peruanas">RECETAS PERUANAS</a></li> 
+									<li><a href="#destacado">DESTACADO</a></li> 
+								</ul>
+
+						</aside>	
+
+							<!-- <h2 id="porque-esta-web" class="titulo-apartado-presentacion"> ¿Por qué esta Web?</h2>-->
+
+
+						<section>
+								
+
+							<div class="container-mono">
+								
+								<!-- habichuelas -->	
+								
+								<a href="839709cdda45be86eaafbcde057c7b6d">
+								<svg width="60" height="60" viewbox="0 0 170 170" id="habichuelas">
+									<g>
+										<path d="m 132.5101,53.7014 h 14.77017 V 24.830371 H 132.5101 Z M 114.12117,154.74991 H 17.967088 c -1.99398,0 -3.618699,-1.58793 -3.618699,-3.60886 V 140.31441 H 117.73987 v 10.82664 c 0,2.02093 -1.62473,3.60886 -3.6187,3.60886 z m 18.38893,-44.10045 -2.95408,-3.03148 C 122.02325,99.822824 117.73987,89.429274 117.73987,78.746996 V 10.39488 h 44.31063 v 68.640843 c 0,10.537908 -3.98796,20.714916 -11.29919,28.437927 l -3.47104,3.75323 v 29.08753 h 14.77023 v 14.4355 h -29.5404 z m -81.236189,0.79396 V 97.007885 h 29.540437 v 14.435535 h 33.232982 c 2.06781,0 3.69254,1.58788 3.69254,3.60886 v 7.21774 c 0,2.02098 -1.62473,3.60889 -3.69254,3.60889 H 18.040965 c -2.067857,0 -3.692576,-1.58791 -3.692576,-3.60889 v -7.21774 c 0,-2.02098 1.624719,-3.60886 3.692576,-3.60886 z" fill-rule="evenodd" id="path6-9" style="092bf82edb61d099ca87a4e9aae647db"></path>
+									</g>
+									
+								</svg>habichuelas</a>
+
+
+								<!-- habas -->	
+								
+								<a href="ac628791535322fb21a20f5c5ebad1be">
+									<svg width="60" height="60" viewbox="0 0 170 170" id="habas">
+								   <g>
+									 <path d="m 89.650305,45.740715 c 10.01442,0 18.044225,-6.18036 18.044225,-13.73545 0,-2.60963 -0.90179,-5.01349 -2.61982,-7.07398 L 89.647215,4.5342355 74.218995,24.931285 c -1.71057,2.06049 -2.61981,4.46435 -2.61981,7.07398 0,7.55398 8.12054,13.73545 18.04493,13.73545 z m 41.502095,68.608375 -9.654,-7.3482 -9.74403,7.3482 c -11.72893,8.92759 -32.299695,8.99688 -44.118805,0 l -9.65385,-7.3482 -9.83435,7.3482 c -5.8637,4.46421 -13.7137,6.93639 -22.0139,6.93639 -6.58807,0 -12.63128,-1.57939 -17.6835101,-4.18916 v 31.66005 c 0,3.77747 4.0605501,6.86724 9.0220401,6.86724 H 161.82776 c 4.9622,0 9.02205,-3.09073 9.02205,-6.86724 v -31.66005 c -5.05463,2.60977 -11.09699,4.18916 -17.68352,4.18916 -8.30005,0 -16.14949,-2.47218 -22.01389,-6.93639 z M 143.78354,66.343815 H 98.672345 v -13.73544 h -18.04493 v 13.73544 h -45.11049 c -14.97746,0 -27.0669701,9.20279 -27.0669701,20.60311 v 10.57626 c 0,7.417485 7.9394801,13.460675 17.6835101,13.460675 4.69251,0 9.2024,-1.3732 12.45093,-3.91507 l 19.30714,-14.628245 19.21767,14.628245 c 6.67276,5.0818 18.31462,5.0818 24.991175,0 l 19.30785,-14.628245 19.21696,14.628245 c 3.33645,2.54145 7.75927,3.91507 12.45093,3.91507 9.74417,0 17.68365,-6.04388 17.68365,-13.460675 v -10.57626 c 0.0703,-11.40032 -11.99947,-20.60311 -26.97623,-20.60311 z" id="path4-0" style="71806e590d75b3e741ae3e327d9a45cc"></path>
+								   </g>
+								 </svg>Habas Catalana</a>
+
+
+								<!-- garbanzos -->
+
+								<a href="47ed0f5f5c1667f3f138d5d24f253047"><svg width="60" height="60" viewbox="0 0 170 170" id="garbanzos"> 
+									<g>
+										<path d="m 49.888687,96.337784 22.62065,-22.88028 -56.11185,-56.6752 c -12.4692702,12.61249 -12.4692702,33.06724 0,45.76054 z m 54.193583,-14.6337 c 12.22943,5.74009 29.41458,1.69833 42.12376,-11.15715 15.26692,-15.44215 18.22429,-37.59482 6.47423,-49.47968 -11.67005,-11.8039097 -33.57118,-8.89334 -48.91798,6.54844 -12.709083,12.85507 -16.705633,30.23757 -11.030493,42.60751 l -78.01308,78.908726 11.27036,11.39964 55.07268,-55.54331 54.992843,55.62417 11.27023,-11.39969 -54.992713,-55.624166 z" id="path4" style="709d5c9b41bd9928acc4403db714fdca"></path>
+									</g>
+								</svg>Cocido Garbanzos</a>
+
+
+								<!-- ceviche -->	
+
+								<a href="37eee090fca059fee324a5975cfb7a51"><svg width="60" height="60" viewbox="0 0 170 170" id="ceviche">
+									<g>
+										<path d="m 153.713,134.18602 -133.598945,7.72211 -0.59574,-12.32227 133.673455,-7.72212 z m -0.37085,15.7727 H 19.520045 v 12.32254 H 153.34215 Z M 160.7766,31.006502 v 57.5045 c 0,9.0364 -6.69095,16.429998 -14.86895,16.429998 H 26.954545 c -8.17801,0 -14.86895,-7.393598 -14.86895,-16.429998 v -57.5045 c 0,-9.03669 6.69094,-16.42999 14.86895,-16.42999 H 145.90765 c 8.178,0 14.86895,7.3933 14.86895,16.42999 z m -14.86895,8.21483 c -12.49004,0 -22.60124,8.05063 -23.86511,18.31933 -4.75804,-5.99706 -20.29629,-22.42674 -48.621895,-22.42674 -34.71957,0 -50.18335,24.64485 -50.18335,24.64485 0,0 15.46378,24.64482 50.18335,24.64482 28.325605,0 43.863855,-16.42999 48.621895,-22.4267 1.26443,10.2684 11.37507,18.31929 23.86511,18.31929 z" id="path589" style="0ee727cfa878c5c9ce3ffab00ee68c4a"></path>
+									</g>
+								</svg>Ceviche</a>
+
+
+
+								<!-- mazamorra -->
+								<a href="a4dde9a01d83d9b59848993092a26214"><svg width="60" height="60" viewbox="0 0 170 170" id="mazamorra">
+										<g id="g8" transform="matrix(9.7484403,0,0,7.6025679,-31.154125,-8.8960957)" style="a390d2a8bc057abfd4ac1727b6d3c667">
+										<path d="m 8.79,12.4 3.26,6.22 3.17,-6.21 C 15.11,12.33 15.01,12.25 14.92,12.16 14.08,12.69 13.07,13 12,13 10.93,13 9.92,12.69 9.08,12.16 8.99,12.25 8.89,12.33 8.79,12.4 Z M 6.83,12.99 C 5.25,12.9 4,11.6 4,10 4,8.51 5.09,7.27 6.52,7.04 6.75,4.22 9.12,2 12,2 14.88,2 17.25,4.22 17.48,7.04 18.91,7.27 20,8.51 20,10 c 0,1.59 -1.24,2.9 -2.81,2.99 L 12.07,23 Z" fill-rule="evenodd" id="path6" style="dec4a9a69334a8c73f646bb50a433631"></path>
+										</g>
+								</svg>Mazamorra morada</a>
+
+								<!-- cabrito -->
+
+								<a href="c9d60f08930b7c244950e97050dc1ada"><svg width="60" height="60" viewbox="0 0 170 170" id="cabrito">
+									<g>
+										<g transform="matrix(8.0370729,0,0,8.4691038,-13.461778,-15.442323)" style="c4cfd84d8a1a1ab617e7c2ad28b4b46b">
+										<path d="m 2,19 h 20 l -2,2 H 4 Z M 5,6 H 6 V 7 H 5 Z M 5,4 H 6 V 5 H 5 Z M 9,4 V 5 H 7 V 4 Z M 9,7 H 7 V 6 H 9 Z M 6,15.23 C 5.64,15.34 5.31,15.51 5,15.7 V 8 H 6 Z M 4,16.52 C 3.62,16.96 3.32,17.45 3.16,18 h 16.82 c 0.01,-0.16 0.03,-0.33 0.03,-0.5 0,-3.04 -2.46,-5.5 -5.5,-5.5 -2.29,0 -4.25,1.4 -5.08,3.4 C 8.84,15.15 8.19,15 7.5,15 7.33,15 7.17,15.02 7,15.04 V 8 h 2 c 1.03,0.06 1.9,-0.96 2,-2 H 21 V 5 H 11 C 10.9,3.95 10.03,3.03 9,3 H 3 V 4 H 4 V 5 H 3 V 6 H 4 V 7 H 3 v 1 h 1 z" id="path6-6" style="d0bb95346cb947a502c4e42b03634608"></path>
+										</g>
+									</g>
+								</svg>Cabrito a la norteña</a>
+
+
+							</div>	
+
+							<div class="container">
+								
+								
+								<div>
+									<p>
+										Mostramos unos de los platos más típicos de uno y otro lado del mundo: Por un lado tenemos tres recetas mediterraneas
+										y por otro otras tres peruanas.
+3
+									</p>
+
+								</div>
+
+								<div>
+									<p>
+										Cuando nos adentramos en la elaboración de cada plato encontramos algunas diferencias entre la cocina andina y la cocina
+										mediterranea: en la andina raramente comen platos únicos!! siempre se acompaña el plato fuerte con algún extra como puede
+										ser la yuca o el arroz (el acompañante de preferencia, como el pan para los españoles).	
+									</p>
+
+								</div>
+								
+
+								<div>
+									<p>
+										Por cada tipo de cocina que hacemos mención: los ingredientes de los andinos para 
+										concinar son bastante curiosos en comparación con la mediterranea (rocotos y ajíes); aunque ellos seguramente 
+										piensan lo mismo ;).
+									</p>
+
+								</div>
+
+							</div>
+
+
+							
+							<div class="container-mono-mediterraneo">
+
+								<a href="72315288cd6b0480d6d4ce13400955ff" class="titulo-apartado-presentacion">Recetas Mediterraneas
+								
+
+								<figure>
+									
+
+											 <img srcset="ce34a03df524ea46541a332884059776 640w,fbaf7cd4a9602574011b11f777a837bf 1280w,b18f719ccb87fbbfa862648bf4ffb717 1920w,21a9e9c2a6304ddbab445f43021addeb 2896w" sizes="(max-width: 768px) calc(50vw - 5vw), calc(70vw - 14vw -28vw)" src="fbaf7cd4a9602574011b11f777a837bf" alt="Cocido de Garbanzos">
+	   
+
+								</figure>	
+										 
+								</a>
+							</div>
+
+	
+							<div class="container-mono-peruano">
+								
+								<a href="d3ad10fa75a9f73a8bbd61eab978234f" class="titulo-apartado-presentacion">Recetas Peruanas
+								
+								<figure>
+									
+
+											 <img srcset="41c7b9ca98d2de1713817638bfeccff6 640w,49ed3d6bdf187b734a1f229b18d321f9 1250w" sizes="(max-width: 768px) calc(50vw - 5vw), calc(70vw - 14vw -28vw)" src="49ed3d6bdf187b734a1f229b18d321f9" alt="Mazamorra morada">
+										   
+								</figure>
+								
+								</a>
+							</div>
+
+							<h2 id="destacado" class="titulo-apartado-presentacion">Destacado</h2>
+							<div class="container-duo">
+								
+								<div>
+									<h3>Estudios sobre la dieta mediterranea</h3>	
+									
+									<p>
+									   Se conoce como dieta mediterránea al modo de alimentarse basado en una idealización de algunos patrones dietéticos de los países mediterráneos,
+									   especialmente: España, Italia, Grecia, Marruecos, San Marino, Chipre y Croacia.
+									   La dieta mediterranea se constata como de las más saludables​ según estudio llevado a cabo en el que se demostró mejor calidad de vida: tanto
+									   físicamente como mentalmente.
+									</p>
+
+								</div>	
+								<div>
+
+									<h3>Historia dieta Peruana</h3>		
+									
+									<p>
+										La cocina peruana es una de las más variadas del mundo porque está influenciada la antigua gastronomía autóctona
+										por la llegada de los españoles al Perú y también por la influencia culinaria de la costa atlántica del África
+										subsahariana de la llegada de los esclavos.
+									</p>
+
+								</div>	
+
+							</div>
+
+
+						</section>	
+
+	</article>
+
+</main>
+
+<footer>
+		
+		
+		<ul><li><a href="">Aviso Legal</a><span> · </span></li><li><a href="">Política de privacidad</a></li></ul>
+
+		<div>
+		
+		<ul><li>Mapa del sitio:</li></ul>	
+
+		<svg width="1500.5591" height="850.51971" viewbox="0 0 397.02292 225.03335" id="svg8">
+		<g style="720dfd9d7ad58570e6d0c8be437673b0">
+			<rect style="df6c8a774b3d93fe950d100878837cad" id="rect352-8" width="19.807438" height="12.886046" x="24.916321" y="177.01732"></rect>
+			<rect style="c48595e11552303c3c69d7b086d7c3df" id="rect352-8-0" width="19.807438" height="12.886046" x="23.860241" y="12.419244"></rect>
+			<rect style="d2b1d7742809bc7b8cefb684b23cc13b" id="rect352-8-6" width="19.807438" height="12.886046" x="24.724529" y="44.087463"></rect>
+			<rect style="e906ff26a4d48367a1f075ec1da1580e" id="rect352-8-3" width="19.807438" height="12.886046" x="24.85778" y="207.16136"></rect>
+			<rect style="08c3087daff47a125e878dc259d5206d" id="rect352-8-6-2" width="19.807438" height="12.886046" x="54.321545" y="73.951981"></rect>
+			<rect style="ea70de469e19b31e7684b863608aa978" id="rect352-8-6-0" width="19.807438" height="12.886046" x="54.475475" y="103.76269"></rect>
+			<rect style="12e9435b2000b6c09723d7dcdadfa379" id="rect352-8-6-6" width="19.807438" height="12.886046" x="54.790928" y="132.65613"></rect>
+			<rect style="6923fa77879f9ec842ae9165ed19df29" id="rect352-8-6-1" width="19.807438" height="12.886046" x="238.38635" y="104.91351"></rect>
+			<rect style="48ccbb075d1887bc22fab8379df6384c" id="rect352-8-6-5" width="19.807438" height="12.886046" x="238.49783" y="73.693672"></rect>
+			<rect style="87712dac4c86bbf2bc3997682c8ed9d1" id="rect352-8-6-54" width="19.807438" height="12.886046" x="239.16774" y="136.3979"></rect>
+			<a href="a4edc3088521d2613695c317b2f4ab8b">
+			<text xml:space="preserve" style="d372a07e7de52e0579df9e4b04df393d" x="43.667679" y="25.30529" id="text677"><tspan id="tspan675" x="43.667679" y="25.30529" style="1baea9007ad7f7bfcc47ede8bee602cc">  Inicio</tspan>           </text>
+			</a>
+			<a href="46fa1d7ea880ef88042432285d6cd0dc">
+			<text xml:space="preserve" style="9f51f14089990c767ed3636a9123d3a2" x="44.531967" y="56.973507" id="text681"><tspan id="tspan679" x="44.531967" y="56.973507" style="3a951164dd2c1140fd88c9ebf92a1637">  Cocinas</tspan></text>
+			</a>
+			<a href="03be6e19db6e017567c9df83eb9f6e5b">
+			<text xml:space="preserve" style="ecdd0ca61232e1439d23aebf3574c98e" x="44.723759" y="189.90337" id="text685"><tspan id="tspan683" x="44.723759" y="189.90337" style="0769956f883f338c97c10b1310f681e0">  Presentación</tspan></text>
+			</a>
+			<a href="f87791b4cdee2350f5fba3abec6c337b">
+			<text xml:space="preserve" style="c6e8699dd185f432a0d4272567c88ba4" x="44.665218" y="220.04741" id="text689"><tspan id="tspan687" x="44.665218" y="220.04741" style="67e1c625a67085c470c2cab295e29b8a"> Enlaces</tspan></text>
+			</a>
+			<a href="ac628791535322fb21a20f5c5ebad1be">
+			<text xml:space="preserve" style="ba5ea1a127cdfa5b6d08b1729cbc3b60" x="74.128975" y="86.838028" id="text693"><tspan id="tspan691" x="74.128975" y="86.838028" style="cc879b20019100667b53ef37ddc85614">  Habas Catalana</tspan></text>
+			</a>
+			<a href="839709cdda45be86eaafbcde057c7b6d">
+			<text xml:space="preserve" style="6719f8112ba9ac3ec401ea8740092c6e" x="74.282906" y="116.64874" id="text697"><tspan id="tspan695" x="74.282906" y="116.64874" style="d96f66ce04c4e797c9fc932a79ea23eb">  Potaje de Garbanzos</tspan></text>
+			</a>
+			<a href="47ed0f5f5c1667f3f138d5d24f253047">
+			<text xml:space="preserve" style="5435a216e7556716653e563aae469169" x="74.598366" y="145.54218" id="text701"><tspan id="tspan699" x="74.598366" y="145.54218" style="49275ca2c27cf4bffe190752c8bd8b04">  Cocido de Garbanzos </tspan></text>
+			</a>
+			<a href="37eee090fca059fee324a5975cfb7a51">
+			<text xml:space="preserve" style="1e0bd2476a7dd7790d4d5f79be3c1422" x="258.30527" y="86.57972" id="text705"><tspan id="tspan703" x="258.30527" y="86.57972" style="97f5d24d705bdecd80d9b51799fc5a8a">  Ceviche</tspan></text>
+			</a>
+			<a href="a4dde9a01d83d9b59848993092a26214">
+			<text xml:space="preserve" style="1561881892ff919ba8728abc8b480da3" x="258.19379" y="117.79955" id="text709"><tspan id="tspan707" x="258.19379" y="117.79955" style="f04ca68f3a63d660383419302181254a">  Mazamorra</tspan></text>
+			</a>
+			<a href="c9d60f08930b7c244950e97050dc1ada">
+			<text xml:space="preserve" style="43a623318dd81d71dc9e514b61b50488" x="258.97516" y="149.28395" id="text713"><tspan id="tspan711" x="258.97516" y="149.28395" style="496c891159417d75608c16060cebb6a0">  Cabrito a la norteña</tspan></text>
+			</a>
+		</g>
+	 	</svg>
+	 
+
+		</div>	
+
+		<ul><li><a href="">Facebook <i class="fab fa-facebook-f"> </i></a><span> · </span></li>
+				<li><a href="">Twitter <i class="fab fa-twitter"> </i></a><span> · </span></li>
+				<li><a href="">Youtube <i class="fab fa-youtube"></i></a></li></ul>
+
+		<ul>
+		   
+		   <li> &copy; 2020 Oscar del Aguila Giménez</li>
+
+		</ul>
+
+			
+
+   </footer>	
+
+   <a href="#cabecera"><div class="desplazador-arriba"><i class="fas fa-chevron-circle-up"></i></div></a>	
+
+</body>
+</html>

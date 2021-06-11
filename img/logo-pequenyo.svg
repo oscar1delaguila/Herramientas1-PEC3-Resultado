@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+  > 
+  <g
+     id="layer2"
+     style="display:inline">
+    <ellipse
+       style="fill:#d45500;stroke-width:0.341497"
+       id="path151"
+       cx="103.80093"
+       cy="146.38376"
+       rx="78.300819"
+       ry="126.75503" />
+  </g>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#550000;fill-rule:evenodd;stroke-width:0.116021"
+       id="rect10"
+       width="6.71807"
+       height="79.525116"
+       x="53.110405"
+       y="69.131561" />
+    <rect
+       style="fill:#550000;fill-rule:evenodd;stroke-width:0.116021"
+       id="rect10-3"
+       width="6.71807"
+       height="79.525116"
+       x="73.26461"
+       y="69.769463" />
+    <rect
+       style="fill:#550000;fill-rule:evenodd;stroke-width:0.116021"
+       id="rect10-3-9"
+       width="6.71807"
+       height="79.525116"
+       x="92.902031"
+       y="69.344193" />
+    <rect
+       style="fill:#550000;fill-rule:evenodd;stroke-width:0.116021"
+       id="rect74"
+       width="46.509716"
+       height="11.056962"
+       x="53.110405"
+       y="148.65668" />
+    <rect
+       style="fill:#550000;fill-rule:evenodd;stroke-width:0.116021"
+       id="rect10-3-1"
+       width="6.71807"
+       height="79.525116"
+       x="73.781395"
+       y="158.6505" />
+    <ellipse
+       style="fill:#550000;fill-rule:evenodd;stroke-width:0.232354"
+       id="path96"
+       cx="139.01102"
+       cy="115.01494"
+       rx="19.932734"
+       ry="46.48711" />
+    <rect
+       style="fill:#550000;fill-rule:evenodd;stroke-width:0.116021"
+       id="rect10-3-1-6"
+       width="6.71807"
+       height="79.525116"
+       x="135.1774"
+       y="160.98187" />
+    <ellipse
+       style="fill:#aa4400;fill-rule:evenodd;stroke-width:0.187347"
+       id="path120"
+       cx="148.97736"
+       cy="103.84595"
+       rx="3.3221223"
+       ry="9.3577948" />
+  </g>
+</svg>

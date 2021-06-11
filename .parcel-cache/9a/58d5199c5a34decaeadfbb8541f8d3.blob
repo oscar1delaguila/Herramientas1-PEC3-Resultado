@@ -1,0 +1,248 @@
+
+
+
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+
+
+	<meta charset="utf-8">
+	<meta name="author" content="Oscar del Aguila">
+
+
+	<!--
+		Esta metaetiqueta informa a los navegadores de los dispositivos móviles que deben establecer el ancho de la ventana gráfica 
+		al ancho del dispositivo y escalar el documento al 100% de ese tamaño, de modo que el documento se mostrará al tamaño optimizado para 
+		esos dispositivos móviles.
+		¿Por qué esto es necesario? Porque los navegadores de los dispositivos móviles tienden a mentir sobre el ancho de su ventana gráfica.
+	-->
+
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	<link rel="shortcut icon" href="f3b80cacb147a9a8447de7f17bd58f36">
+
+	<link rel="preconnect" href="a588727710699cfcdc68e5045c981d22">
+	<link href="de9171049435c5b7e4fcb4d71f5bcb5f" rel="stylesheet">
+	
+	
+	<link rel="stylesheet" type="text/css" href="bb3289673d120a6527fc80edcc7a676d">
+	<link rel="stylesheet" type="text/css" href="7ccc0e37d1b2ffc3712a308e878413c1">
+		
+
+	<title>Cocido</title>
+
+
+
+</head>
+
+<body>
+	
+
+	<header id="cabecera">
+			
+				<div>
+					<div>
+						<a href="a4cd43b24a1a3bcbb3e085041e65a2a8">
+							<svg width="210" height="297" viewbox="0 0 210 297" class="clase-rotar"> 
+								<g style="9a5395cdfed845d8122044b80d4dd385">
+									<ellipse style="a472ac54a95de491da30a6a24a3d803a" id="path151" cx="103.80093" cy="146.38376" rx="78.300819" ry="126.75503"></ellipse>
+								</g>
+								<g>
+									<rect style="bd4d0e7ff3a71e86d5f2ddbb6310bce4" id="rect10" width="6.71807" height="79.525116" x="53.110405" y="69.131561"></rect>
+									<rect style="8a1324c7a5ac69ecc7ab0730aee42cd9" id="rect10-3" width="6.71807" height="79.525116" x="73.26461" y="69.769463"></rect>
+									<rect style="8da4dd02a3275fa326d2ec93560d2b68" id="rect10-3-9" width="6.71807" height="79.525116" x="92.902031" y="69.344193"></rect>
+									<rect style="f78fa007e493b42e762ad752f3bb1eba" id="rect74" width="46.509716" height="11.056962" x="53.110405" y="148.65668"></rect>
+									<rect style="e62bddeff9f052ca01aca7a970ab486b" id="rect10-3-1" width="6.71807" height="79.525116" x="73.781395" y="158.6505"></rect>
+									<ellipse style="7001259a435cb4f259d31575e3f68f25" id="path96" cx="139.01102" cy="115.01494" rx="19.932734" ry="46.48711"></ellipse>
+									<rect style="aed9c94e6b2110ec16eaee511f983b0f" id="rect10-3-1-6" width="6.71807" height="79.525116" x="135.1774" y="160.98187"></rect>
+									<ellipse style="e66faf3adf2c2d996e8d447fd9d68007" id="path120" cx="148.97736" cy="103.84595" rx="3.3221223" ry="9.3577948"></ellipse>
+								</g>
+								</svg>
+
+						</a>
+					</div>
+					<div><a href="a4cd43b24a1a3bcbb3e085041e65a2a8">La Cocina de la Abuela</a></div>
+				</div>
+
+				<nav>
+					<ul>                                       
+						<li><a href="8141638f66f235a74bcff27822e2fff7" class="activado">COCINAS</a></li>
+						<li><a href="2324fa6c1a245ffe06c9eea3aacce919">PRESENTACIÓN</a></li>
+						<li><a href="158617c1f24881fcc285565c69dd1dac">ENLACES</a></li>
+					</ul>
+				</nav>
+
+	</header>
+
+
+	<main>
+
+
+		<ul class="breadcrumb">
+		  <li><a href="a4cd43b24a1a3bcbb3e085041e65a2a8">Inicio</a></li>
+		  <li><a href="8141638f66f235a74bcff27822e2fff7">Categorías Cocina</a></li>
+		  <li id="100">Cocido-Garbanzos</li>
+		</ul>
+
+
+		<h1>Cocido de Garbanzos</h1>
+
+		<article class="wrapper-detalle">
+				<aside>
+						
+						<h1>Receta</h1>
+
+						<dl>
+							
+							<dt><p><strong>Tiempo de cocinado:</strong></p></dt>
+
+								<dd><p>1 hora.</p></dd>
+
+							<dt><p><strong>Ingredientes:</strong></p></dt>
+
+								<dd>
+									<p><strong>NO lleva Aceite: </strong></p>
+									<p><strong>1 Cebolla grande.</strong></p>
+									<p><strong>1 Pastilla de Avecrem.</strong>1.</p>
+									<p><strong>Especias: </strong>Sal.</p>
+									<p><strong>Garbanzos: pueden ser de bote en conserva.</strong></p>
+									<p><strong>Zanahorias y otros tipos de hortalizas o verduras</strong></p>
+									<p><strong>Carne: </strong> costillas de cerdo y/o trozos de ternera y/o pollo (muslo a preferir).</p>
+								</dd>
+
+							<dt><p><strong>Número de personas</strong></p></dt>
+
+							<dd>
+								<p><strong>Para: </strong>4 personas.</p>
+							</dd>
+
+
+							<dt><p><strong>Tipo de comida:</strong></p></dt>
+							<dd>
+								<p><strong>Medio pesada: </strong>Mejor si tienes tiempo de echar la siesta.</p>
+							</dd>
+
+
+						</dl>
+
+				</aside>
+
+				<section>
+
+					<h1>Cocinado:</h1>
+				    <div>
+
+						<img srcset="f2a4bfa4f023a2f07659319fea3ccfa1 640w,36629481f80bf041c3a1f02d6dc2dfa8 1280w,89c0a3af2411b878fabbd1aca6a4b5e6 1920w,3517138f7200da7fc39a9a027d43a17f 2896w" sizes="(max-width: 768px) 95vw, 39vw " src="36629481f80bf041c3a1f02d6dc2dfa8" class="imagen-detalle" alt="Cocido de Garbanzos">
+
+
+
+						<p>
+							Llenar la olla de agua y esperar que hierva. Lavar las costillas de cerdo o el pollo. Una vez que hierva echar el pollo,
+							el hueso salado y carne de ternera. Seguidamente echar las zanahorias a trozos y las verduras deseadas y una cebolla sin picar. 
+							Esperar unos cinco minutos y echar la pastilla de Avecrem. Una vez todos los ingredientes en la olla esperar que se haga durante
+							unos 30 minutos. Se puede echar algo de pasta al final de la cocción.
+						</p>
+
+
+					</div>
+
+
+				    <h1>Video</h1>
+
+				    <div class="video-receta">
+				    	<iframe src="e3d23d7bdd4ed9a96e5ad9c96d2bc19f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+				    </div>
+
+				    <div><p><i>Cocido de Garbanzos</i></p></div>
+
+					<h1>Otras recetas relacionadas:</h1>
+
+					<div><a href="9cd96b965e389995336416bd6813cb26">Habas a la catalana</a></div>
+					<div><a href="1a7109037ef150354c8b22324839a2be">Potaje de Garbanzos </a></div>
+
+
+
+				</section>    
+		</article>
+
+    </main>
+
+	<footer>
+		
+		
+		<ul><li><a href="">Aviso Legal</a><span> · </span></li><li><a href="">Política de privacidad</a></li></ul>
+
+		<div>
+		
+		<ul><li>Mapa del sitio:</li></ul>	
+
+		<svg width="1500.5591" height="850.51971" viewbox="0 0 397.02292 225.03335" id="svg8">
+		<g style="2f2a6ff275a9b5f53eb5b03d23e715bd">
+			<rect style="8313783a2a88fae4e4964d835d79a960" id="rect352-8" width="19.807438" height="12.886046" x="24.916321" y="177.01732"></rect>
+			<rect style="fc1e50b8515ad3b6d2608af73e7cfd70" id="rect352-8-0" width="19.807438" height="12.886046" x="23.860241" y="12.419244"></rect>
+			<rect style="22010f666e76e54294c9261c770330b4" id="rect352-8-6" width="19.807438" height="12.886046" x="24.724529" y="44.087463"></rect>
+			<rect style="731acd66909e2637e399469891acfbcf" id="rect352-8-3" width="19.807438" height="12.886046" x="24.85778" y="207.16136"></rect>
+			<rect style="465a44592a3ee1ef427615b1c794025c" id="rect352-8-6-2" width="19.807438" height="12.886046" x="54.321545" y="73.951981"></rect>
+			<rect style="7af308d8c74a454567ddd10fd5b4d47c" id="rect352-8-6-0" width="19.807438" height="12.886046" x="54.475475" y="103.76269"></rect>
+			<rect style="9ae1b35089df92d8137e9bb1efa17312" id="rect352-8-6-6" width="19.807438" height="12.886046" x="54.790928" y="132.65613"></rect>
+			<rect style="16a85ed1cbba8442b0f4b2e2b53c07f9" id="rect352-8-6-1" width="19.807438" height="12.886046" x="238.38635" y="104.91351"></rect>
+			<rect style="9a46cdd1665ad32d5d22bfff5eef2b2f" id="rect352-8-6-5" width="19.807438" height="12.886046" x="238.49783" y="73.693672"></rect>
+			<rect style="ad14d56cf3eeac70121e4919600d700c" id="rect352-8-6-54" width="19.807438" height="12.886046" x="239.16774" y="136.3979"></rect>
+			<a href="a4cd43b24a1a3bcbb3e085041e65a2a8">
+			<text xml:space="preserve" style="91a62db75d233937f0a10f2630d08b1f" x="43.667679" y="25.30529" id="text677"><tspan id="tspan675" x="43.667679" y="25.30529" style="637e489ad8be0ae0c4bafe2a46d49f6e">  Inicio</tspan>           </text>
+			</a>
+			<a href="8141638f66f235a74bcff27822e2fff7">
+			<text xml:space="preserve" style="cdf761bf0a2a81a06b22b9b23c1ca441" x="44.531967" y="56.973507" id="text681"><tspan id="tspan679" x="44.531967" y="56.973507" style="b7964c248f587c7c1f1182168371dfec">  Cocinas</tspan></text>
+			</a>
+			<a href="2324fa6c1a245ffe06c9eea3aacce919">
+			<text xml:space="preserve" style="3d6b3139c92cf42adc270e2aff158556" x="44.723759" y="189.90337" id="text685"><tspan id="tspan683" x="44.723759" y="189.90337" style="6aa4fe25d77a90fc708257621dc5807d">  Presentación</tspan></text>
+			</a>
+			<a href="158617c1f24881fcc285565c69dd1dac">
+			<text xml:space="preserve" style="3adced101abe2890d0b53d8338fa0a5c" x="44.665218" y="220.04741" id="text689"><tspan id="tspan687" x="44.665218" y="220.04741" style="76b5c4aaebef9c86670a724e1dee475f"> Enlaces</tspan></text>
+			</a>
+			<a href="9cd96b965e389995336416bd6813cb26">
+			<text xml:space="preserve" style="63ef204a18f56e9bafd240f9b413e33b" x="74.128975" y="86.838028" id="text693"><tspan id="tspan691" x="74.128975" y="86.838028" style="e3201bb939999250e91526c594699b32">  Habas Catalana</tspan></text>
+			</a>
+			<a href="1a7109037ef150354c8b22324839a2be">
+			<text xml:space="preserve" style="2a269b1aa5d3d3aba63f5ebb66168144" x="74.282906" y="116.64874" id="text697"><tspan id="tspan695" x="74.282906" y="116.64874" style="02f1ea68647064870edbddd1711d0576">  Potaje de Garbanzos</tspan></text>
+			</a>
+			<a href="a01310667c56da5816e5bc3ba2ae5262">
+			<text xml:space="preserve" style="a24450564284e2a20f28b67a63e5f1de" x="74.598366" y="145.54218" id="text701"><tspan id="tspan699" x="74.598366" y="145.54218" style="1a3ae92dc8dd6546b859bb0940cb3fde">  Cocido de Garbanzos </tspan></text>
+			</a>
+			<a href="33105e216372cbdfd8578878a7c5cc82">
+			<text xml:space="preserve" style="2fd25c566d3a3e309c9134996a781592" x="258.30527" y="86.57972" id="text705"><tspan id="tspan703" x="258.30527" y="86.57972" style="bb6efc3d93a3f77a3b24a45ec32b27ce">  Ceviche</tspan></text>
+			</a>
+			<a href="8f3aa35a2eadf9f2b048926a24cbfe09">
+			<text xml:space="preserve" style="13612917d5407a07c63e8ef68078679e" x="258.19379" y="117.79955" id="text709"><tspan id="tspan707" x="258.19379" y="117.79955" style="e2b66517ab1142fe422ef42d72410e2b">  Mazamorra</tspan></text>
+			</a>
+			<a href="6a4f0cc70568f58fe115c60a0a54288b">
+			<text xml:space="preserve" style="d762a9725e4bdc0262f6dab60c31b7d6" x="258.97516" y="149.28395" id="text713"><tspan id="tspan711" x="258.97516" y="149.28395" style="121a5b8a917d0ccd490cbf4e23cb63ed">  Cabrito a la norteña</tspan></text>
+			</a>
+		</g>
+	 	</svg>
+	 
+
+		</div>	
+
+		<ul><li><a href="">Facebook <i class="fab fa-facebook-f"> </i></a><span> · </span></li>
+				<li><a href="">Twitter <i class="fab fa-twitter"> </i></a><span> · </span></li>
+				<li><a href="">Youtube <i class="fab fa-youtube"></i></a></li></ul>
+
+		<ul>
+		   
+		   <li> &copy; 2020 Oscar del Aguila Giménez</li>
+
+		</ul>
+
+			
+
+   </footer>	
+
+   <a href="#cabecera"><div class="desplazador-arriba"><i class="fas fa-chevron-circle-up"></i></div></a>	
+   
+</body>
+</html>
+
+
+
+

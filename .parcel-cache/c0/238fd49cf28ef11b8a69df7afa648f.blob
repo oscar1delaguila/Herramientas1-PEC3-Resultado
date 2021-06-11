@@ -1,0 +1,1467 @@
+
+
+body {
+
+	/*google fonts*/
+	font-family: 'Noto Serif', serif;
+
+	/*contenido centrado*/
+	margin:0 auto;
+	width: 100%;
+	background-color:rgb(128, 0, 0, 0.1	);
+}
+
+
+/*color de los textos*/
+
+
+p, div label {
+
+	color:indianred;
+
+}
+
+
+div.desplazador-arriba {
+
+	position: fixed;
+
+	/* posicion desde calculada desde el elmento padre */
+	bottom:5vh;
+	right: 3vw;
+
+	/*sobresaltamos el enlace para que siempre sea visible */
+	z-index: 100;
+	color:white;
+	font-size: 3rem;
+
+}
+
+
+main {
+
+	width: 70vw;
+	margin: 0 auto;
+
+}
+
+
+header {
+
+	/* contenedor con hijos flexibles */
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+
+	/* cuando no caben se disponen en la linea de abajo */
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+	padding-top: 3%;
+	
+	
+}
+
+
+/*logo y text La receta de la abuela*/
+
+
+header div {
+
+	-webkit-box-flex: 1.5;
+
+	    -ms-flex: 1.5;
+
+	        flex: 1.5;
+
+	/*alineación vertical*/
+	vertical-align: middle;
+	text-align: left;
+	padding-left: 2%;
+
+	/* tamaño de fuente que varia segun el tamaño de la ventana */
+	font-size: 1.5vw;
+	
+
+}
+
+
+/* Convertimos en 'inline' el div del icono de la cabecera para que se vea junto con el texto.*/
+
+
+header > div  div:first-child  {
+
+	width: 20%;
+	display: inline-block;
+	
+}
+
+
+header > div svg {
+
+	width: 100%;
+	height: 100%;
+
+}
+
+
+header > div > div:last-child {
+
+	display: inline;
+}
+
+
+/*elemento de navegacion*/
+
+
+header nav {
+
+	/* proporción del ancho de la columna de los elementos del menú de la cabecera*/
+	-webkit-box-flex: 4.5;
+	    -ms-flex: 4.5;
+	        flex: 4.5;
+	text-align: center;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+
+	/* tamaño de la fuente en relación con el ancho de la ventana*/
+	font-size: 1.7vw;
+
+}
+
+
+h1 {
+
+	margin-bottom: 2%;
+	color:burlywood;
+}
+
+
+h3 {
+
+	color:indianred;
+	text-align: center;
+}
+
+
+nav ul li {
+
+	/* lista en linea del menu de la cabecera */
+	display: inline;
+	padding-left: 2%;
+	padding-right: 2%; 
+
+}
+
+
+section {
+
+	text-align: center;
+	margin-bottom: 5%; 
+
+}
+
+
+/* Enlaces */
+
+
+a {
+
+	text-decoration: none;
+	color:#9b1700;
+}
+
+
+nav li a {
+
+	color: salmon;
+}
+
+
+nav li a:hover, nav li a:active {
+
+	color:rgb(139,0,0) ;
+}
+
+
+.activado {
+
+	font-style: italic;
+	font-weight: 700;
+	color:rgb(139,0,0) ;
+
+}
+
+
+/************************************************************ index.html ***********************************************************/
+
+
+.clip-polygon {
+	
+	
+	-webkit-clip-path: polygon(5% 20%, 50% 0%, 100% 5%, 75% 95%, 45% 95%, 20% 65%);
+	
+	
+	        clip-path: polygon(5% 20%, 50% 0%, 100% 5%, 75% 95%, 45% 95%, 20% 65%);
+	
+	/* Note that percentages work as well as px */
+  }
+
+
+/* elemento padre con flexbox */
+
+
+div.dos-columns {
+
+	display: -webkit-box;
+
+	display: -ms-flexbox;
+
+	display: flex;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+	text-align:center;
+
+}
+
+
+/* Elementos hijo*/
+
+
+div.dos-columns div{
+
+	/* proporcion igual para cada columna hijo */
+	-webkit-box-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1; 
+	text-align: center;
+		
+}
+
+
+div.dos-columns figure {
+
+	height: 60vh;
+	margin: 0;
+
+}
+
+
+img.tipo-cocina {
+
+	-o-object-fit: cover;
+
+	   object-fit: cover;
+	width: 100%;
+	height: 80%;
+
+}
+
+
+form, fieldset  {
+
+	width: 80%;
+	border: 0px;
+	margin: 0 auto;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+
+/* selector contenedor de los inputs*/
+
+
+fieldset div {
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	text-align: left;
+	width: 100%;
+	
+}
+
+
+/*controles*/
+
+
+input[type="email"] {
+
+
+	-webkit-box-sizing: border-box;
+
+
+	        box-sizing: border-box; /* al padding y el border no afecta al tamañó de la caja */
+	border: 1px solid black;
+	border-left: 1px solid grey;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	width: 100%;
+
+}
+
+
+#mensaje-de-bienvenida-newsletter {
+
+	color:white;
+	background-color: green;
+	margin: 1% auto;
+	width: 80%;
+	text-align: center;
+
+}
+
+
+/**************************************************** pie de pagina ****************************************************/
+
+
+body footer {
+
+	display: -ms-grid;
+
+	display: grid;
+
+	/*cuadricula flexible: repetimos hasta qeu sea posible 3 columnas con minimo ancho cada una en pixeles y
+	y hasta ocupar el ancho posible */
+	-ms-grid-columns: (minmax(33%, 1fr))[3];
+	grid-template-columns: repeat(3, minmax(33%, 1fr));
+
+	/*separación entre imagen e imagen también en sesiones 2020 */
+	
+	text-align: center;
+	
+	font-family: 'Open Sans', sans-serif;
+	background-color: #433A44;
+	color: white;
+	padding: 4% 2% 0% 2%;
+
+	/*al ancho hay que restarle los padding del 2% para tener un ancho del 100% */
+	width: 96%;
+	
+}
+
+
+footer a {
+
+	color:white;
+
+}
+
+
+footer a:hover {
+
+	color: #9b1700;
+
+}
+
+
+footer div {
+
+	width: 100%;
+	text-align: center;
+	
+}
+
+
+footer div svg {
+
+	width: 100%;
+	height: 300px;
+	text-align: center;
+	margin: 0 auto;
+
+}
+
+
+/* selector primer hijo del footer flexbox */
+
+
+footer ul {
+
+	
+	margin:unset;
+	padding: unset;
+	margin-bottom: 3%;
+	list-style: none;
+
+}
+
+
+footer ul li {
+
+	display: inline;
+	padding: 0.3% 0% 0.3% 0%;
+	text-align: center;
+
+}
+
+
+/* selector segundo hijo del footer flexbox */
+
+
+header footer div ul li{
+
+	text-align: center;
+	margin: 0 auto;
+	
+}
+
+
+/* selector tercer hijo del footer flexbox */
+
+
+footer ul + ul + ul {
+
+	/* para que lo ponga debajo (proporción el doble y ancho 100%) */
+	text-align: center;
+	
+}
+
+
+/* clase para los botones de la web */
+
+
+.boton {
+
+	background-color: #c5d883;
+	border-radius: 5px;
+	padding: 1% 4% 1% 4%;
+	width: 30%;
+	cursor:pointer;
+	font-size: 1vw;
+	border: 2px solid transparent;
+	-webkit-transform: scale(1.0,1.0);
+	        transform: scale(1.0,1.0);
+	-webkit-transition: background-color 0.6s linear;
+	transition: background-color 0.6s linear;
+	-webkit-transition: -webkit-transform 0.4s linear;
+	transition: -webkit-transform 0.4s linear;
+	transition: transform 0.4s linear;
+	transition: transform 0.4s linear, -webkit-transform 0.4s linear;
+	text-align: center;
+	
+}
+
+
+.boton:hover {
+
+	background-color: darkgreen;
+	border: 2px solid transparent;
+	-webkit-transform: scale(1.0,1.2);
+	        transform: scale(1.0,1.2);
+	-webkit-transition: -webkit-transform 0.4s linear;
+	transition: -webkit-transform 0.4s linear;
+	transition: transform 0.4s linear;
+	transition: transform 0.4s linear, -webkit-transform 0.4s linear;
+	-webkit-transition: background-color 0.6s linear;
+	transition: background-color 0.6s linear;
+
+}
+
+
+.boton a {
+
+	color:#fff;
+}
+
+
+.boton:active {
+
+	border:2px solid rgb(163, 204, 169);
+	border-radius: 0px;
+
+}
+
+
+/*********************************************************** Categorias ****************************************************/
+
+
+/*centramos titulo*/
+
+
+article h1 {
+
+	text-align: center;
+}
+
+
+/* Para Categorías.html y presentacion.html */
+
+
+article div.container {
+
+	
+	display: -ms-grid;
+
+	
+	display: grid;
+
+	/*cuadricula flexible: repetimos hasta qeu sea posible 3 columnas con minimo ancho cada una en pixeles y
+	y hasta ocupar el ancho posible */
+	-ms-grid-columns: (minmax(120px, 1fr))[3];
+	grid-template-columns: repeat(3, minmax(120px, 1fr));
+	
+
+	/*separación entre imagen e imagen también en sesiones 2020 */
+	grid-gap: 3vw;
+	text-align: left;
+	
+
+}
+
+
+div.container div {
+
+	margin-bottom: 5%;
+}
+
+
+div.container figure {
+
+	margin: unset;
+	padding: unset;
+
+}
+
+
+/****************************************************** Presentación ********************************************************/
+
+
+.container-mono {
+
+
+	
+	padding-top: 8%;
+	display: -ms-grid;
+	display: grid;
+
+	/*cuadricula flexible: repetimos hasta qeu sea posible 6 columnas con minimo ancho cada una en pixeles y
+	y hasta ocupar el ancho posible */
+	-ms-grid-columns: (minmax(80px, 1fr))[6];
+	grid-template-columns: repeat(6, minmax(80px, 1fr));
+	
+	grid-gap: 30px;
+
+}
+
+
+.container-mono a {
+
+	color:cornflowerblue;
+
+}
+
+
+article div.container-duo {
+
+	display:-ms-grid;
+
+	display:grid;
+
+	/*cuadricula flexible: repetimos hasta qeu sea posible 2 columnas con minimo ancho cada una en pixeles y
+	y hasta ocupar el ancho posible */
+	-ms-grid-columns: (minmax(100px, 1fr))[2];
+	grid-template-columns: repeat(2, minmax(100px, 1fr));
+
+	/*separación entre imagen e imagen también en sesiones 2020 */
+	grid-gap: 30px;
+	text-align: justify;
+
+}
+
+
+article div.container-mono-mediterraneo {
+
+	background: url(4f207c1933863b404a43404b51eae02a), url(9a8cd3db5fe4ad3bab2ef69a20fc055a);
+
+	background-repeat: no-repeat;			
+	background-size: 50% 100%, 100% 100%;
+	height: 450px;
+	
+	
+}
+
+
+@-webkit-keyframes rotar {
+	
+	from {
+		-webkit-transform: rotateY(0deg) ;
+		        transform: rotateY(0deg) ;
+	}
+
+	to {
+
+		-webkit-transform:rotateY(360deg);
+
+		        transform:rotateY(360deg);
+	}
+
+}
+
+
+@keyframes rotar {
+	
+	from {
+		-webkit-transform: rotateY(0deg) ;
+		        transform: rotateY(0deg) ;
+	}
+
+	to {
+
+		-webkit-transform:rotateY(360deg);
+
+		        transform:rotateY(360deg);
+	}
+
+}
+
+
+@-webkit-keyframes escalar {
+	
+	from {
+		-webkit-transform: scale(0.2,0.2);
+		        transform: scale(0.2,0.2);
+	}
+
+	to {
+
+		-webkit-transform: scale(1.0,1.0);
+
+		        transform: scale(1.0,1.0)
+	}
+
+}
+
+
+@keyframes escalar {
+	
+	from {
+		-webkit-transform: scale(0.2,0.2);
+		        transform: scale(0.2,0.2);
+	}
+
+	to {
+
+		-webkit-transform: scale(1.0,1.0);
+
+		        transform: scale(1.0,1.0)
+	}
+
+}
+
+
+@-webkit-keyframes parabola {
+
+	from { top: 100vh;  }
+	25% {left: 26vw}
+	50% {left: 13vw; }
+	75% {left: 5vw; }
+	95% {left: 1vw; }
+  	to { top: 0vh; }
+}
+
+
+@keyframes parabola {
+
+	from { top: 100vh;  }
+	25% {left: 26vw}
+	50% {left: 13vw; }
+	75% {left: 5vw; }
+	95% {left: 1vw; }
+  	to { top: 0vh; }
+}
+
+
+.clase-rotar {
+	
+	-webkit-animation: rotar 3s linear infinite;
+	
+	        animation: rotar 3s linear infinite;
+	transform-box: fill-box;                  /*para que rote dentro de su propio espacio!!!*/
+	-webkit-transform-origin: center center;
+	        transform-origin: center center;          /*Rotate about their own center */
+	
+}
+
+
+#habas {
+
+	position: relative;	
+	-webkit-animation: parabola 0.6s linear;	
+	        animation: parabola 0.6s linear;
+
+
+}
+
+
+#mazamorra {
+
+	position: relative;	
+	-webkit-animation: parabola 1.5s linear;	
+	        animation: parabola 1.5s linear;
+
+
+}
+
+
+#ceviche {
+
+	position: relative;
+	-webkit-animation: parabola 1.2s linear;
+	        animation: parabola 1.2s linear;
+
+}
+
+
+#cabrito {
+
+	position: relative;
+	-webkit-animation: parabola 1.8s linear;
+	        animation: parabola 1.8s linear;
+
+}
+
+
+#garbanzos {
+
+	position: relative;
+	-webkit-animation: parabola 0.9s linear;
+	        animation: parabola 0.9s linear;
+
+}
+
+
+#habichuelas {
+
+	position: relative;
+	-webkit-animation: parabola 0.3s linear;
+	        animation: parabola 0.3s linear;
+
+}
+
+
+article div.container-mono-mediterraneo figure::before {
+
+	content: "Habichuelas";
+	color:violet;
+	font-size: 1.5rem;
+	margin-top: -20%;
+	font-weight: bolder;
+
+}
+
+
+article div.container-mono-mediterraneo figure::after {
+
+	content: "Habas";
+	color:white;
+	font-size: 1.5rem;
+	margin-top: -20%;
+	font-weight: bolder;
+
+}
+
+
+article div.container-mono-peruano figure::before {
+
+	content: "Ceviche";
+	color:violet;
+	font-size: 1.5rem;
+	margin-top: -20%;
+	font-weight: bolder;
+
+}
+
+
+article div.container-mono-peruano figure::after {
+
+	content: "Cabrito";
+	color:white;
+	font-size: 1.5rem;
+	margin-top: -20%;
+	font-weight: bolder;
+
+}
+
+
+article div.container-mono-peruano figure, article div.container-mono-mediterraneo figure {
+	
+	margin: unset;
+	padding: unset;
+
+}
+
+
+article div.container-mono-peruano {
+
+
+	background: url(37edb752da7d81fc5e8774ccb92486b3), url(054cbd31bad36ba3a6dae1dd402c7936);
+
+	background-repeat: no-repeat;			
+	background-size: 50% 100%, 100% 100%;
+	height: 450px;
+	
+
+}
+
+
+article div.container img {
+
+	width: 100%;
+
+}
+
+
+article div.container-mono-mediterraneo img, article div.container-mono-peruano img   {
+	text-align: center;
+	margin: 0 auto;
+	width: 50%; 
+	
+}
+
+
+.container-con-lateral {
+
+	display:-webkit-box;
+
+	display:-ms-flexbox;
+
+	display:flex;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+
+
+}
+
+
+.container-con-lateral aside {
+
+	-webkit-box-flex: 1;
+
+	    -ms-flex: 1;
+
+	        flex: 1;
+	text-align: left;
+
+
+}
+
+
+.container-con-lateral section {
+
+
+	-webkit-box-flex: 4;
+
+
+	    -ms-flex: 4;
+
+
+	        flex: 4;
+	margin: 0 auto;
+		
+}
+
+
+/* enlaces y lateral de presentacion.html */
+
+
+aside ul li a {
+
+	font-family: 'Open Sans', sans-serif;
+	
+}
+
+
+aside ul li a:hover {
+
+	color: indianred;
+
+}
+
+
+aside ul {
+
+	list-style-type: none;
+
+	/* valores iniciales anulados */
+	padding: unset;
+
+}
+
+
+article section h1 {
+
+	text-align: left;
+}
+
+
+.container-mono svg{
+
+	display: block;
+	width: 100%;
+
+}
+
+
+.container-mono div {
+
+	margin: 0 auto;
+	display: block;
+
+}
+
+
+.container-con-lateral div.container, 
+.container-con-lateral div.container-mono-mediterraneo,
+.container-con-lateral div.container-mono-peruano,
+.container-con-lateral div.container-duo  {
+
+	margin-bottom: 10%;
+		
+}
+
+
+div.container-con-lateral div.container-mono-mediterraneo div,
+div.container-con-lateral div.container-mono-peruano div {
+
+	width: 100%;
+	
+}
+
+
+.titulo-apartado-presentacion {
+
+	color:white;
+	margin-top: 0%;
+	font-size: 30px;
+
+}
+
+
+/********************************************************** Detalle Receta **************************************************/
+
+
+article aside h1 {
+
+	text-align: left;
+
+}
+
+
+/* elemento flexbox */
+
+
+article.wrapper-detalle {
+
+
+	display: -webkit-box;
+
+
+	display: -ms-flexbox;
+
+
+	display: flex;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+
+}
+
+
+/* proporcion 1.5 del ancho */
+
+
+article.wrapper-detalle aside {
+
+	-webkit-box-flex: 1.5;
+
+	    -ms-flex: 1.5;
+
+	        flex: 1.5;
+	text-align: left;
+	padding-right:  2%;
+
+}
+
+
+/*proporcion 2 del ancho */
+
+
+article.wrapper-detalle section {
+
+	-webkit-box-flex: 2;
+
+	    -ms-flex: 2;
+
+	        flex: 2;
+	text-align: justify;
+		
+}
+
+
+article.wrapper-detalle section h1 {
+
+	text-align: left;
+	
+}
+
+
+/*respetamos propiedades de la siguiente regla al poner inline-block*/
+
+
+article.wrapper-detalle section div.video-receta + div p {
+
+	display: inline-block;
+	
+}
+
+
+article.wrapper-detalle section div.video-receta + div p::first-letter, article.wrapper-detalle section div span {
+
+	font-size: 1.6rem;
+
+}
+
+
+iframe {
+
+	width: 100%;
+	height: 100%;
+
+}
+
+
+/* contenedor del iframe */
+
+
+div.video-receta {
+
+   width: 39vw;
+   height: 45vh;
+}
+
+
+.imagen-detalle{
+
+		width: 39vw;
+		
+}
+
+
+/* lista de descripcion del detalle */
+
+
+dt {
+
+	width: 100%;
+	border-bottom: 1px solid grey;
+	
+}
+
+
+dd, dl {
+
+	line-height: 1.2rem;
+}
+
+
+dd {
+
+	padding-bottom: 3%;
+}
+
+
+/****************************************** hilo de Ariadna o migas de pan *************************************/
+
+
+ul.breadcrumb li[id="100"] {
+
+	color: crimson;
+
+}
+
+
+ul.breadcrumb {
+
+  margin-top: 4%;
+  padding: unset;
+  list-style: none;
+  
+}
+
+
+ul.breadcrumb li {
+  
+  display: inline;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+
+ul.breadcrumb li+li:before {
+
+  padding: 7px;
+  content: "/ ";
+}
+
+
+/******************************************* Estilos de validación + Javascript ************************************************/
+
+
+.valido {
+	
+	background-color: rgb(189,236,182,0.5); /*en verde con opacidad*/
+	
+
+}
+
+
+.invalido {
+
+	background-color: rgb(256,0,0,0.1); /*en rojo con opacidad*/
+	
+}
+
+
+/******************************************************************************************************************/
+
+
+/*** cuando la resolución del dispositivo como máximo es de 768px de ancho se aplican estas reglas de estilo.
+*******************************************************************************************************************/
+
+
+@media screen and (max-width: 768px) { 
+
+	
+	main {
+
+		margin: 0 auto;
+
+		/*aumentamos el ancho respecto a los dispositivos grandes.*/
+		width: 95vw;
+		
+	}
+
+
+	/*logo y La Receta de la abuela*/
+	header div {
+
+		/* el orden de visualización del elemento lo indicamos con la propiedasd --order--  */
+		-webkit-box-ordinal-group: 2;
+		    -ms-flex-order: 1;
+		        order: 1;
+		font-size: 1.5rem;
+
+		/* todo el ancho del dispositivo */
+		-webkit-box-flex: 1;
+		    -ms-flex: 1 100%;
+		        flex: 1 100%; 
+		text-align: center;
+
+	}
+
+	/*elemento de navegacion se mostrará el último de los tres elementos hijos, por defecto el order = 0; */
+	header div + nav {
+
+		-webkit-box-ordinal-group: 3;
+
+		    -ms-flex-order: 2;
+
+		        order: 2;
+		font-size: 1rem;
+		-webkit-box-flex: 1;
+		    -ms-flex: 1 100%;
+		        flex: 1 100%; 
+		text-align: center;
+		margin: 0;
+		padding: 0;
+
+
+	}
+
+
+	/* cambiamos la visualización del menu de navegación */
+	nav ul li {
+
+		text-align: center;
+		display: block;
+
+	}
+
+
+	/* pie de pagina */
+	body footer {
+
+		display: -ms-grid;
+
+		display: grid;
+		-ms-grid-columns: (minmax(100%, 1fr))[1];
+		grid-template-columns: repeat(1, minmax(100%, 1fr));
+		
+	}
+
+
+	footer ul {
+
+		margin-bottom: 7%;
+
+	}
+
+	/* para la primera lista del pie insertamos un buen margen al final.*/
+	footer ul:first-child {
+
+		margin-bottom: 10%;
+
+	}
+
+	footer div  {
+
+		width: 100%;
+		margin: 0 auto;
+		
+	}
+
+	footer div  {
+
+		margin-bottom: 10%;
+
+	}
+
+	footer div ul li {
+
+		text-align: center;
+		padding: unset;
+		margin: unset;
+
+	}	
+
+	/*No pintamos por pantalla los puntos de entre los enlaces */
+	footer span {
+
+		display: none;
+
+	}
+
+
+	footer ul li {
+
+		display: block;
+		text-align: center;
+
+	}
+
+	/* cambiamos la visualización para que se vea una unica columna */
+	div.dos-columns {
+
+		display: block;
+		/*centramos los elementos */
+		margin: 0 auto;
+		
+	}
+
+		
+	fieldset {
+
+		-webkit-box-flex: 1;
+
+		    -ms-flex: 1;
+
+		        flex: 1;	
+	}
+
+
+	.container-mono {
+
+		-ms-grid-columns: (minmax(80px,1fr))[3];
+
+		grid-template-columns: repeat(3,minmax(80px,1fr));
+		
+	}
+
+	/*selector referente a las categorias */	
+	article div.container, article div.container-duo {
+
+		-ms-grid-columns: (minmax(320px, 1fr))[1];
+
+		grid-template-columns: repeat(1, minmax(320px, 1fr));
+		
+	}
+
+	
+	.titulo-apartado-presentacion {
+
+		color:white;
+		margin-top: 0%;
+		font-size: 18px;
+	
+	} 
+	
+
+	div.container-con-lateral aside {
+
+		text-align: left;
+		/* el hijo ocupa todo el ancho disponible */
+		-webkit-box-flex:1;
+		    -ms-flex:1 100%;
+		        flex:1 100%;
+		width: 100%;
+		margin-left: 5%;
+
+	}
+
+
+	div.container-con-lateral aside  h1 {
+
+		text-align: center;
+	}
+
+	
+	div.container-con-lateral section {
+
+
+		/* el hijo ocupa todo el ancho disponible */
+		-webkit-box-flex: 100%;
+		    -ms-flex: 100%;
+		        flex: 100%;
+		width: 100%;		
+		
+	}
+	
+	div.container-con-lateral div.container,
+	div.container-con-lateral div.container-mono-mediterraneo,
+	div.container-con-lateral div.container-mono-peruano,
+	div.container-con-lateral div.container-duo  {
+
+		margin-bottom: 5%;
+		
+
+	}
+
+	
+
+	article div.container-mono-mediterraneo {
+
+		background: url(4f207c1933863b404a43404b51eae02a), url(9a8cd3db5fe4ad3bab2ef69a20fc055a);
+	
+		background-repeat: no-repeat;			
+		background-size: 50% 100%, 100% 100%;
+		height: 250px;
+		
+		
+	}
+		
+	article div.container-mono-peruano {
+
+
+		background: url(37edb752da7d81fc5e8774ccb92486b3), url(054cbd31bad36ba3a6dae1dd402c7936);
+	
+		background-repeat: no-repeat;			
+		background-size: 50% 100%, 100% 100%;
+		height: 250px;
+		
+	
+	}
+	
+
+
+	article div.container-mono-mediterraneo figure::before {
+
+		font-size: 0.8rem;
+	
+	}
+	
+	article div.container-mono-mediterraneo figure::after {
+	
+		font-size: 0.8rem;
+	
+	}
+	
+	
+	article div.container-mono-peruano figure::before {
+	
+     	font-size: 0.8rem;
+	
+	}
+	
+	article div.container-mono-peruano figure::after {
+	
+		font-size: 0.8rem;
+	
+	}
+	
+
+	/**************************************** Detalle *********************************************/
+
+
+	.imagen-detalle, .imagen-categoria{
+
+		width: 95vw;
+		
+	}
+
+	div.video-receta {
+
+		width: 95vw;
+		border:0px;
+	}
+
+
+	article.wrapper-detalle aside {
+
+		-webkit-box-flex: 100%;
+
+		    -ms-flex: 100%;
+
+		        flex: 100%;
+		text-align: left;
+		
+	}
+
+	article.wrapper-detalle section {
+
+		-webkit-box-flex: 100%;
+
+		    -ms-flex: 100%;
+
+		        flex: 100%;
+		text-align: left; 		
+	}
+
+	article.wrapper-detalle section h1 {
+
+		text-align: left;
+
+	}
+
+	/* esta regla está repetida pero porque no se puede ejecutar para dispositivos grandes
+	ya que hacemos un display:none del span. y por eso la escribimos de nuevo para dispositivos
+	pequeños. */
+	article.wrapper-detalle section div.video-receta + div p::first-letter {
+
+		font-size: 1.4rem;
+
+	}
+
+
+	/**************** migas de pan **************************/
+	ul.breadcrumb {
+
+	  text-align: center;	
+	  margin: 10% auto 0% auto;
+	  padding: unset;
+	  list-style: none;
+	  
+	}
+
+
+	/* clase para los botones de la web */
+	.boton {
+
+		font-size: 3vw;
+
+	}
+
+	
+}
+

@@ -1,0 +1,261 @@
+
+
+
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+
+
+	<meta charset="utf-8">
+	<meta name="author" content="Oscar del Aguila">
+
+
+	<!--
+		Esta metaetiqueta informa a los navegadores de los dispositivos móviles que deben establecer el ancho de la ventana gráfica 
+		al ancho del dispositivo y escalar el documento al 100% de ese tamaño, de modo que el documento se mostrará al tamaño optimizado para 
+		esos dispositivos móviles.
+		¿Por qué esto es necesario? Porque los navegadores de los dispositivos móviles tienden a mentir sobre el ancho de su ventana gráfica.
+	-->
+
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	<link rel="shortcut icon" href="0a4a4f4d66049be4cec1afbd93134d37">
+
+	<link rel="preconnect" href="1cdf408be43dcb892bd07a3ddc8ba449">
+	<link href="4fd0bc3dd564b0cd1f8c20dcca20d3ed" rel="stylesheet">
+	
+	
+	<link rel="stylesheet" type="text/css" href="d22f65cf6260c9cc9272238bae20a70e">
+	<link rel="stylesheet" type="text/css" href="f04991c046d63532cf4a2a1143289c29">
+		
+
+	<title>Receta Cabrito</title>
+
+
+
+</head>
+
+<body>
+	
+
+	<header id="cabecera">
+			
+				<div>
+					<div>
+						<a href="39455788ee63975e18e58557eda4f48e">
+							<svg width="210" height="297" viewbox="0 0 210 297" class="clase-rotar"> 
+								<g style="c10a9c9200eab345bee793b250a72fb0">
+									<ellipse style="5f291929e956bf1a468a0e1a5d41609c" id="path151" cx="103.80093" cy="146.38376" rx="78.300819" ry="126.75503"></ellipse>
+								</g>
+								<g>
+									<rect style="7390860dfa6118f16ebbc9a3cec8909e" id="rect10" width="6.71807" height="79.525116" x="53.110405" y="69.131561"></rect>
+									<rect style="c2e0ee520766a476a270619377faef60" id="rect10-3" width="6.71807" height="79.525116" x="73.26461" y="69.769463"></rect>
+									<rect style="3cd1e826acecfe06e05841e500c4181b" id="rect10-3-9" width="6.71807" height="79.525116" x="92.902031" y="69.344193"></rect>
+									<rect style="b587c3f96dab09bc60477034f3cbb4c9" id="rect74" width="46.509716" height="11.056962" x="53.110405" y="148.65668"></rect>
+									<rect style="a742512e0e849aa3e1d6a915d4d47337" id="rect10-3-1" width="6.71807" height="79.525116" x="73.781395" y="158.6505"></rect>
+									<ellipse style="dab2f48aa73585532918e26aa36073a7" id="path96" cx="139.01102" cy="115.01494" rx="19.932734" ry="46.48711"></ellipse>
+									<rect style="7911a81686a30964d79e202419c22636" id="rect10-3-1-6" width="6.71807" height="79.525116" x="135.1774" y="160.98187"></rect>
+									<ellipse style="322be6068fe59d9bf2fc1e992ceff19f" id="path120" cx="148.97736" cy="103.84595" rx="3.3221223" ry="9.3577948"></ellipse>
+								</g>
+								</svg>
+
+						</a>
+					</div>
+					<div><a href="39455788ee63975e18e58557eda4f48e">La Cocina de la Abuela</a></div>
+				</div>
+
+				<nav>
+					<ul>                                       
+						<li><a href="a84a0f3a2ad4ed29f538651f07e801b7" class="activado">COCINAS</a></li>
+						<li><a href="ebb5d7f651f3981a4c7e3933561ca03d">PRESENTACIÓN</a></li>
+						<li><a href="486e711859edc09a44f24a8c612afbc1">ENLACES</a></li>
+					</ul>
+				</nav>
+
+	</header>
+
+
+	<main>
+
+
+		<ul class="breadcrumb">
+		  <li><a href="39455788ee63975e18e58557eda4f48e">Inicio</a></li>
+		  <li><a href="a84a0f3a2ad4ed29f538651f07e801b7">Categorías Cocina</a></li>
+		  <li id="100">Cabrito-a-la-norteña</li>
+		</ul>
+
+
+		<h1>Cabrito a la norteña</h1>
+
+		<article class="wrapper-detalle">
+				<aside>
+						
+						<h1>Receta</h1>
+
+						<dl>
+							
+							<dt><p><strong>Tiempo de cocinado:</strong></p></dt>
+
+								<dd><p>1 hora y media.</p></dd>
+
+							<dt><p><strong>Ingredientes:</strong></p></dt>
+
+								<dd>
+									<p><strong>1 Kg Cabrito:</strong></p>
+									<p><strong>6 Cebollas de cabeza:</strong></p>
+									<p><strong>Ajo machacado:</strong></p>
+									<p><strong>2 Ají escabeche triturado</strong></p>
+									<p><strong>2 Ají amarillo triturado:</strong></p>
+									<p><strong>Un vaso Chicha de jora</strong></p>
+									<p><strong>Especias: </strong> Pimienta molida, Cilantro, sal.</p>
+									<p><strong>Arroz</strong></p>
+									<p><strong>Yuca</strong></p>
+									<p><strong>Aceite de oliva</strong></p>
+								</dd>
+
+							<dt><p><strong>Número de personas</strong></p></dt>
+
+							<dd>
+								<p><strong>Para: </strong>4 personas.</p>
+							</dd>
+
+
+							<dt><p><strong>Tipo de comida:</strong></p></dt>
+							<dd>
+								<p><strong>Pesada: </strong>De un alto nivel calórico</p>
+							</dd>
+
+						</dl>
+
+				</aside>
+
+				<section>
+
+	
+
+				    <div>
+						
+						<h1>Cocinado:</h1>
+
+						<img srcset="bc20b237a1a06655b417c3851983d8d6 600w,a9c3b458288fa91c625b3cdc63721d41 1250w" sizes="(max-width: 768px) 95vw, 39vw " src="8e5ef7546f7d220e4c0acd272941704d" class="imagen-detalle" alt="Mazamorra morada">
+
+						
+						
+						
+
+						<p>
+							Trocear el cabrito y prepararlo previamente: con la chicha de jora, sal, pimienta y un poco de comino y orégano. Dejarlo reposar.
+							Cogemos una perola de barro o metal y echamos el aceite. Poner la cebolla picada en cuadraditos y dejar hasta dorar unos 
+							cinco minutos. Después echamos los dos ajies molidos y remover hasta que termine de dorar el sofrito. Después ir echando
+							los trozos de cabrito con un poco de zumo de chicha de jora. Remover y bajar el fuego al mínimo para que la carne sude
+							y se vaya formando una salsa espesa. Durante unos 40 minutos a fuego lento. Después agregar el cilantro picado
+							y dejar unos diez minutos más e ir removiendo durante todo ese tiempo con palo de madera.
+							Pelar la yuca, trocear y poner a cocer durante 20 minutos agregando un poco de sal antes de terminar la cocción.
+							Coger dos tacitas de medida de arroz y poner a cocer con dos medidas de agua. Para acompañar puedes servir con una ensalada
+							de cebolla.
+						</p>
+
+
+					</div>
+
+ 
+
+				    <h1>Video</h1>
+
+				    <div class="video-receta">
+				    	<iframe src="83799def3b20fea1a67524fc2a154efc" title="Cabrito a la norteña" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+				    </div>
+
+				    <div><p><i>Cabrito a la norteña</i></p></div>
+
+					<h1>Otras recetas relacionadas:</h1>
+
+					<div><a href="0833d6ca430f4d1b0dcf345db6d72aba">Ceviche peruano</a></div>
+					<div><a href="2813989c1f344ff53a01f748ea9917c3">Mazamorra Morada </a></div>
+
+
+				</section>    
+
+		</article>
+
+    </main>
+
+	<footer>
+		
+		
+		<ul><li><a href="">Aviso Legal</a><span> · </span></li><li><a href="">Política de privacidad</a></li></ul>
+
+		<div>
+		
+		<ul><li>Mapa del sitio:</li></ul>	
+
+		<svg width="1500.5591" height="850.51971" viewbox="0 0 397.02292 225.03335" id="svg8">
+		<g style="f4f470831591da9f677c2f81ac49a8f6">
+			<rect style="d9f4743faa5e47fbf39ea4364a52eb7f" id="rect352-8" width="19.807438" height="12.886046" x="24.916321" y="177.01732"></rect>
+			<rect style="e8a77d8fb806d3e7622a4b0fce7bd830" id="rect352-8-0" width="19.807438" height="12.886046" x="23.860241" y="12.419244"></rect>
+			<rect style="dd465c38624deccbabcdcb90de61a648" id="rect352-8-6" width="19.807438" height="12.886046" x="24.724529" y="44.087463"></rect>
+			<rect style="07c6053cd2822c109c9759ef7be52427" id="rect352-8-3" width="19.807438" height="12.886046" x="24.85778" y="207.16136"></rect>
+			<rect style="0138bd73a98534e02537f800bff6b3da" id="rect352-8-6-2" width="19.807438" height="12.886046" x="54.321545" y="73.951981"></rect>
+			<rect style="eb0f8ce87e7f7b2e839fdf6805e80c83" id="rect352-8-6-0" width="19.807438" height="12.886046" x="54.475475" y="103.76269"></rect>
+			<rect style="f90811ad04ee88b766fbe034b11260c4" id="rect352-8-6-6" width="19.807438" height="12.886046" x="54.790928" y="132.65613"></rect>
+			<rect style="051085ad0aa78de1f86251a94c13d32d" id="rect352-8-6-1" width="19.807438" height="12.886046" x="238.38635" y="104.91351"></rect>
+			<rect style="49d94eaf1fa25f39a5fcc37b5c3a6173" id="rect352-8-6-5" width="19.807438" height="12.886046" x="238.49783" y="73.693672"></rect>
+			<rect style="b91f402880d0b250beb358c2c641cd34" id="rect352-8-6-54" width="19.807438" height="12.886046" x="239.16774" y="136.3979"></rect>
+			<a href="39455788ee63975e18e58557eda4f48e">
+			<text xml:space="preserve" style="a2516d516bb1f7778c0e8a089f948712" x="43.667679" y="25.30529" id="text677"><tspan id="tspan675" x="43.667679" y="25.30529" style="c2e318f7ea193ae917db4fd56e829526">  Inicio</tspan>           </text>
+			</a>
+			<a href="a84a0f3a2ad4ed29f538651f07e801b7">
+			<text xml:space="preserve" style="06460e0d0afd8ca1c7403b2c8094786b" x="44.531967" y="56.973507" id="text681"><tspan id="tspan679" x="44.531967" y="56.973507" style="10b52138cdeec9a79a8d2ac2bd2af06d">  Cocinas</tspan></text>
+			</a>
+			<a href="ebb5d7f651f3981a4c7e3933561ca03d">
+			<text xml:space="preserve" style="f1075be94eecdd264b1967104681582f" x="44.723759" y="189.90337" id="text685"><tspan id="tspan683" x="44.723759" y="189.90337" style="6d9fb0de65e84cdb27692b205a827898">  Presentación</tspan></text>
+			</a>
+			<a href="486e711859edc09a44f24a8c612afbc1">
+			<text xml:space="preserve" style="d24d8cf7d7c3210fd1655123cc70dfd3" x="44.665218" y="220.04741" id="text689"><tspan id="tspan687" x="44.665218" y="220.04741" style="3b83f81a6988b69d418fe1e628725cbf"> Enlaces</tspan></text>
+			</a>
+			<a href="aee7cc04864141211567d9af40cd79ec">
+			<text xml:space="preserve" style="96ab21eaf90e14bcaa80d2e6e732f3d3" x="74.128975" y="86.838028" id="text693"><tspan id="tspan691" x="74.128975" y="86.838028" style="26ebe3b364fa49853d77cbf7a86d27be">  Habas Catalana</tspan></text>
+			</a>
+			<a href="91206c4634281081f653655c0d58ff17">
+			<text xml:space="preserve" style="b0bd16a1400e368c076ac051c3f5aaea" x="74.282906" y="116.64874" id="text697"><tspan id="tspan695" x="74.282906" y="116.64874" style="f006ea8b506cb6289a19feac2b95a401">  Potaje de Garbanzos</tspan></text>
+			</a>
+			<a href="5978b2fa86496b25e00b10189f0a391a">
+			<text xml:space="preserve" style="56e39a38aa59171b02524c2af95be86b" x="74.598366" y="145.54218" id="text701"><tspan id="tspan699" x="74.598366" y="145.54218" style="96dea03b247592d30d1d75b5979f026c">  Cocido de Garbanzos </tspan></text>
+			</a>
+			<a href="0833d6ca430f4d1b0dcf345db6d72aba">
+			<text xml:space="preserve" style="b1e6a5a2a5d3db7f04b6ed410c629bb9" x="258.30527" y="86.57972" id="text705"><tspan id="tspan703" x="258.30527" y="86.57972" style="b8542a7f65f9c27105cce1f9d72a759b">  Ceviche</tspan></text>
+			</a>
+			<a href="2813989c1f344ff53a01f748ea9917c3">
+			<text xml:space="preserve" style="4d04b11e3d0fdc535e5908f49ba46c39" x="258.19379" y="117.79955" id="text709"><tspan id="tspan707" x="258.19379" y="117.79955" style="685bbd766945a8f474d486ee4a2e95d7">  Mazamorra</tspan></text>
+			</a>
+			<a href="a29b9ee6d452afec099972788e3d450d">
+			<text xml:space="preserve" style="2634887443c7468d0538c10140334e31" x="258.97516" y="149.28395" id="text713"><tspan id="tspan711" x="258.97516" y="149.28395" style="6702bb608cf99563b580105f21d72b28">  Cabrito a la norteña</tspan></text>
+			</a>
+		</g>
+	 	</svg>
+	 
+
+		</div>	
+
+		<ul><li><a href="">Facebook <i class="fab fa-facebook-f"> </i></a><span> · </span></li>
+				<li><a href="">Twitter <i class="fab fa-twitter"> </i></a><span> · </span></li>
+				<li><a href="">Youtube <i class="fab fa-youtube"></i></a></li></ul>
+
+		<ul>
+		   
+		   <li> &copy; 2020 Oscar del Aguila Giménez</li>
+
+		</ul>
+
+			
+
+   </footer>	
+
+   <a href="#cabecera"><div class="desplazador-arriba"><i class="fas fa-chevron-circle-up"></i></div></a>	
+
+</body>
+</html>
+
+
+
+

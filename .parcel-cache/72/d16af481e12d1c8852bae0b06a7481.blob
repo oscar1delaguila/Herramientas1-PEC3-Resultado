@@ -1,0 +1,283 @@
+
+
+
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+
+
+
+	<meta charset="utf-8">
+
+
+	<!--
+		Esta metaetiqueta informa a los navegadores de los dispositivos móviles que deben establecer el ancho de la ventana gráfica 
+		al ancho del dispositivo y escalar el documento al 100% de ese tamaño, de modo que el documento se mostrará al tamaño optimizado para 
+		esos dispositivos móviles.
+		¿Por qué esto es necesario? Porque los navegadores de los dispositivos móviles tienden a mentir sobre el ancho de su ventana gráfica.
+	-->
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="author" content="Oscar del Aguila">
+	
+	<link rel="shortcut icon" href="e94a32c8019e17dbd731931693ba9409">
+
+	<link rel="preconnect" href="cb68f68ff5705adbeb08fbfe1c16c824">
+	<link href="8da8028e3e390f21c54ad11365baa1b5" rel="stylesheet">
+
+	
+	<link rel="stylesheet" type="text/css" href="de4cca3cc19c578514070f8f87eabeef">
+	<link rel="stylesheet" type="text/css" href="bbfda6d43f5854889490c27ce5ea7f17">
+
+	
+	
+	<title>Las recetas de la Abuela</title>
+
+
+</head>
+
+
+<body>
+
+
+
+
+	<header id="cabecera">
+			
+				<div>
+					<div>
+						<a href="ca576a136d51334ab0ae80c436f11bcb">
+							
+							<svg width="210" height="297" viewbox="0 0 210 297" class="clase-rotar"> 
+								<g id="layer2" style="070a2d9fdc9cb270cbb9d5902a982742">
+									<ellipse style="1581c0c03f043a053d438dca201b44d4" id="path151" cx="103.80093" cy="146.38376" rx="78.300819" ry="126.75503"></ellipse>
+								</g>
+								<g id="layer1">
+									<rect style="652a889cbe14b0aa8297d4beffd1d462" id="rect10" width="6.71807" height="79.525116" x="53.110405" y="69.131561"></rect>
+									<rect style="f65308e817c8c67023d29a0a334cb929" id="rect10-3" width="6.71807" height="79.525116" x="73.26461" y="69.769463"></rect>
+									<rect style="8f445e2fc2cbcd27b42032b39c4a9475" id="rect10-3-9" width="6.71807" height="79.525116" x="92.902031" y="69.344193"></rect>
+									<rect style="8ddb5bd04ec457daa306df2810efb96a" id="rect74" width="46.509716" height="11.056962" x="53.110405" y="148.65668"></rect>
+									<rect style="e36908c0be7cbd3c81528cc3e0112730" id="rect10-3-1" width="6.71807" height="79.525116" x="73.781395" y="158.6505"></rect>
+									<ellipse style="e6f833174ffed8c160b1cec36f95801d" id="path96" cx="139.01102" cy="115.01494" rx="19.932734" ry="46.48711"></ellipse>
+									<rect style="feec7c140bca1936b059a0aaed91b7aa" id="rect10-3-1-6" width="6.71807" height="79.525116" x="135.1774" y="160.98187"></rect>
+									<ellipse style="6feb8d8df6bae2fdc233ced4b98353be" id="path120" cx="148.97736" cy="103.84595" rx="3.3221223" ry="9.3577948"></ellipse>
+								</g>
+								</svg>
+
+
+						</a>
+					</div>
+					<div><a href="ca576a136d51334ab0ae80c436f11bcb">La Cocina de la Abuela</a></div>
+					
+				</div>
+
+				<nav>
+					<ul>                                       
+						<li><a href="ff87febef4c117881717c5591d4455d3">COCINAS</a></li>
+						<li><a href="f144714ddd0f52039e2c0363b9e8ff8b">PRESENTACIÓN</a></li>
+						<li><a href="64fe3fcc5449b078edef9ccb0209d49a">ENLACES</a></li>
+					</ul>
+				</nav>
+
+	</header>
+
+
+	
+	<main>
+
+		<section class="seccion-centrada">
+
+			<h1>Las Recetas de la abuela</h1>
+
+			<p>Si quieres saber un poco más de esta web clica sobre el siguiente enlace... <a href="f144714ddd0f52039e2c0363b9e8ff8b"> CONOCER MÁS</a>	</p>
+
+		</section>
+
+
+		<section>
+
+			<h1>Tipos de Cocina</h1>
+
+			<div class="dos-columns ">
+
+				<div>
+					
+					<a href="77c2b037e1b02c5f923d722943f52e8a">
+
+							<figure>
+		
+									<picture>
+
+										<source media="(min-width: 769px)" srcset="913aada72d0e1ae2aa7d209498454619 941w,7ee2717c4b9d3c0e7f3fa0827456121f 2005w,93f1636d8746c52bb0139a1bc71a488a 3663w" sizes="calc(70vw - 46.6vw - 3vw)">					
+				
+										<img srcset="772cddc642d6ff0ae4c3ba8408045b69 1x,772cddc642d6ff0ae4c3ba8408045b69 1.5x,de69911d4d11f310cfa39e33ef94ad8d 2x,e3f7edc24531440e86ca990abe52982c 3x,93f1636d8746c52bb0139a1bc71a488a 4x" src="de69911d4d11f310cfa39e33ef94ad8d" class="tipo-cocina clip-polygon" alt="Sagrada familia">
+				
+								</picture>	
+
+								<figcaption class="">
+									<p>Cocina Mediterranea</p>
+								</figcaption>
+
+							</figure>
+					</a>
+
+				</div>
+
+				<div>
+					
+					
+					<a href="e2e6742c115df4f8c1b7c4fef4b3605d">
+
+							<figure>
+
+									<picture>
+
+										<source media="(min-width: 769px)" srcset="2ae6972e494c5ca413570655537c8c39 855w,5b23c73e6220472b73bb1e76d1424370 1449w,2655aade744a2b4b5e363b11058e097c 2592w" sizes="calc(70vw - 46.6vw - 3vw)">					
+				
+										<img srcset="e6f02a3d6e93a06a174f50186182cbbd 1x,e6f02a3d6e93a06a174f50186182cbbd 1.5x,f3747ff275c1697ab6d60806c06a9a30 2x,5f2dccd2fc0db8eb83fe63298ad494d8 3x,2655aade744a2b4b5e363b11058e097c 4x" src="f3747ff275c1697ab6d60806c06a9a30" class="tipo-cocina clip-polygon" alt="Sagrada familia">
+				
+								</picture>	
+
+
+
+								<figcaption class="">
+									<p>Cocina Peruana</p>
+								</figcaption>
+
+							</figure>
+						</a>
+
+				</div>
+
+			</div>
+
+		</section>
+
+		<section>
+
+			<h1><strong>Únete a nuestro Newsletter</strong></h1>
+
+			<div>
+
+
+				<form>
+
+					<fieldset>
+
+						<div>
+							<input id="email" class=" " type="email" required="" name="email" maxlength="128" minlength="3" title="Escribe tu correo electrónico" placeholder="Correo electrónico">
+						</div>
+
+
+						<div><p>INFORMACIÓN SOBRE PROTECCIÓN DE DATOS DE: La Cocina de la abuela. Finalidades: recogida de datos para la inscripción como socio del interesado. Legitimación: Consentimiento del interesado. Destinatarios: No están previstas cesiones de datos a terceros, salvo obligación legal. Derechos: Puede retirar su consentimiento en cualquier momento, así como acceder, rectificar, suprimir sus datos y otros derechos dirigiéndose a info@lacocinadelaabuela.org. Información Adicional: Puede ampliar la información en el enlace de Aviso Legal y Política de privacidad.
+						</p></div>
+						
+
+						<div>
+							<input type="checkbox" id="politica-privacidad" required="" name="politica-privacidad">
+							<label for="politica-privacidad">He leído y acepto la política de privacidad</label>
+						</div>
+
+						<div><input id="btnMessage" type="button" name="unete" value="Únete" class="boton"></div>
+
+						
+
+					</fieldset>
+
+					<div id="mensaje-de-bienvenida-newsletter"></div>
+			
+
+				</form>
+
+				
+
+			</div>
+
+			
+
+		</section>
+
+		<section>
+
+			<h1><strong><a href="64fe3fcc5449b078edef9ccb0209d49a">Enlaces de interés</a></strong></h1>	
+
+		</section>
+
+	</main>
+	
+	<footer>
+		
+		
+		<ul><li><a href="">Aviso Legal</a><span> · </span></li><li><a href="">Política de privacidad</a></li></ul>
+
+		<div>
+		
+		<ul><li>Mapa del sitio:</li></ul>	
+
+		<svg width="1500.5591" height="850.51971" viewbox="0 0 397.02292 225.03335" id="svg8">
+		<g style="f9d8e9bfee04c25a2b3b043420545a73">
+			<rect style="d77faa868fcabb04bd368205c0e35e54" id="rect352-8" width="19.807438" height="12.886046" x="24.916321" y="177.01732"></rect>
+			<rect style="c677562060fa5268ac3741a99d36ae96" id="rect352-8-0" width="19.807438" height="12.886046" x="23.860241" y="12.419244"></rect>
+			<rect style="a535fcde6ed7ba1f898b6af50e311540" id="rect352-8-6" width="19.807438" height="12.886046" x="24.724529" y="44.087463"></rect>
+			<rect style="f08dae2f69c8c08536e6ca8f7dd7ec4b" id="rect352-8-3" width="19.807438" height="12.886046" x="24.85778" y="207.16136"></rect>
+			<rect style="033790e90af4a38e747865b523d5a907" id="rect352-8-6-2" width="19.807438" height="12.886046" x="54.321545" y="73.951981"></rect>
+			<rect style="a70a4d167fb5b634bb3c291fc7a9ee56" id="rect352-8-6-0" width="19.807438" height="12.886046" x="54.475475" y="103.76269"></rect>
+			<rect style="c170dfd76b13960b32c62c06e6ccdeeb" id="rect352-8-6-6" width="19.807438" height="12.886046" x="54.790928" y="132.65613"></rect>
+			<rect style="999fa7625896adc68d3e007317569ca0" id="rect352-8-6-1" width="19.807438" height="12.886046" x="238.38635" y="104.91351"></rect>
+			<rect style="3947331c034ceea839ad10f483b8a114" id="rect352-8-6-5" width="19.807438" height="12.886046" x="238.49783" y="73.693672"></rect>
+			<rect style="e9699813e7eccbd345df97dc3cdd2b3d" id="rect352-8-6-54" width="19.807438" height="12.886046" x="239.16774" y="136.3979"></rect>
+			<a href="ca576a136d51334ab0ae80c436f11bcb">
+			<text xml:space="preserve" style="e27022ddcf12f675340efe845248c1c0" x="43.667679" y="25.30529" id="text677"><tspan id="tspan675" x="43.667679" y="25.30529" style="f70f0f68cdb52f3d5330623bbea26510">  Inicio</tspan>           </text>
+			</a>
+			<a href="ff87febef4c117881717c5591d4455d3">
+			<text xml:space="preserve" style="26faea460a9ce227c48dfbb5b4b38a00" x="44.531967" y="56.973507" id="text681"><tspan id="tspan679" x="44.531967" y="56.973507" style="4cb2ea467197ca89cae7388e7570f70a">  Cocinas</tspan></text>
+			</a>
+			<a href="f144714ddd0f52039e2c0363b9e8ff8b">
+			<text xml:space="preserve" style="c0542017d6eae1a2c0894fc52951ebdc" x="44.723759" y="189.90337" id="text685"><tspan id="tspan683" x="44.723759" y="189.90337" style="8ad400719f60ba9e6b0846f427285bf5">  Presentación</tspan></text>
+			</a>
+			<a href="64fe3fcc5449b078edef9ccb0209d49a">
+			<text xml:space="preserve" style="62bc8c5f842e4c5bbe3a01219eb25607" x="44.665218" y="220.04741" id="text689"><tspan id="tspan687" x="44.665218" y="220.04741" style="972260c7da5a8784bfbc45868df84d12"> Enlaces</tspan></text>
+			</a>
+			<a href="2885b55a97e47377da7f20b0bf788007">
+			<text xml:space="preserve" style="68bacf5456a15aec42b5c3a704e1b831" x="74.128975" y="86.838028" id="text693"><tspan id="tspan691" x="74.128975" y="86.838028" style="1d08ab286dcdc0ef9504fd47fc408ec7">  Habas Catalana</tspan></text>
+			</a>
+			<a href="615d5472e006402a9062349d0405b379">
+			<text xml:space="preserve" style="36f6b289b2c3be61c6be2fdec48decd3" x="74.282906" y="116.64874" id="text697"><tspan id="tspan695" x="74.282906" y="116.64874" style="15d45e760d2d4bb7e7ea5f8bf5b2c873">  Potaje de Garbanzos</tspan></text>
+			</a>
+			<a href="b9d4f7c2fd40ff088af26aa1392a7840">
+			<text xml:space="preserve" style="b96ae2682fcffa6981800bae727bee79" x="74.598366" y="145.54218" id="text701"><tspan id="tspan699" x="74.598366" y="145.54218" style="8c1b008344d1ea53967075842c617de4">  Cocido de Garbanzos </tspan></text>
+			</a>
+			<a href="884cabbccbb6c57edc4233634f421b44">
+			<text xml:space="preserve" style="fe109c90ee03d5085c0506cb40dac372" x="258.30527" y="86.57972" id="text705"><tspan id="tspan703" x="258.30527" y="86.57972" style="3adcb26c8038f20038fee84bd46ecf7a">  Ceviche</tspan></text>
+			</a>
+			<a href="b65515634ea2839d171b5b162f9ba06e">
+			<text xml:space="preserve" style="9d62dffa4f6ed8cf601c9426509aa48d" x="258.19379" y="117.79955" id="text709"><tspan id="tspan707" x="258.19379" y="117.79955" style="3b0d2cbd4f3bd9dc573c35682c282d9d">  Mazamorra</tspan></text>
+			</a>
+			<a href="96c3a852781efdff79cbfcabfe3283c0">
+			<text xml:space="preserve" style="22ff77123b0f7980dfde29472c3dc2f3" x="258.97516" y="149.28395" id="text713"><tspan id="tspan711" x="258.97516" y="149.28395" style="93edd5e8879f2c7839833fdd9ef75a0a">  Cabrito a la norteña</tspan></text>
+			</a>
+		</g>
+	 	</svg>
+	 
+
+		</div>	
+
+		<ul><li><a href="">Facebook <i class="fab fa-facebook-f"> </i></a><span> · </span></li>
+				<li><a href="">Twitter <i class="fab fa-twitter"> </i></a><span> · </span></li>
+				<li><a href="">Youtube <i class="fab fa-youtube"></i></a></li></ul>
+
+		<ul>
+		   
+		   <li> &copy; 2020 Oscar del Aguila Giménez</li>
+
+		</ul>
+
+			
+
+   </footer>	
+
+   <a href="#cabecera"><div class="desplazador-arriba"><i class="fas fa-chevron-circle-up"></i></div></a>	
+
+	<script src="3c9db1ebdf4af96d91958c3076d433ca"></script>
+</body>
+</html>

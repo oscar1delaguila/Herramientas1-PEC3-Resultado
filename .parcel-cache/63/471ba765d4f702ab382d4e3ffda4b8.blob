@@ -1,0 +1,252 @@
+
+
+
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+
+
+	<meta charset="utf-8">
+	<meta name="author" content="Oscar del Aguila">
+
+
+	<!--
+		Esta metaetiqueta informa a los navegadores de los dispositivos móviles que deben establecer el ancho de la ventana gráfica 
+		al ancho del dispositivo y escalar el documento al 100% de ese tamaño, de modo que el documento se mostrará al tamaño optimizado para 
+		esos dispositivos móviles.
+		¿Por qué esto es necesario? Porque los navegadores de los dispositivos móviles tienden a mentir sobre el ancho de su ventana gráfica.
+	-->
+
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	<link rel="shortcut icon" href="a879f4a2b8b8f85182a183ef33a55d61">
+
+	<link rel="preconnect" href="71f5d4f69ec9ee8750c8fb188bc67521">
+	<link href="80eb22a94411fca329edfc6ab4721b13" rel="stylesheet">
+	
+	
+	<link rel="stylesheet" type="text/css" href="e97971abd5f66a5cac0f46a134aec58d">
+	<link rel="stylesheet" type="text/css" href="fc4dc1b2f690fb857a506230f1948b94">
+		
+
+	<title>Mazamorra</title>
+
+
+
+</head>
+
+<body>
+	
+
+	<header id="cabecera">
+			
+				<div>
+					<div>
+						<a href="029faf961643b536e8a4e3dab3b30d76">
+							<svg width="210" height="297" viewbox="0 0 210 297" class="clase-rotar"> 
+								<g style="94dd315d9bfd2699fa228998bae391dc">
+									<ellipse style="9c6c590ba157c7d73c40e9847fd73686" id="path151" cx="103.80093" cy="146.38376" rx="78.300819" ry="126.75503"></ellipse>
+								</g>
+								<g>
+									<rect style="cd6d6fe5aa493c9852fd5d20d56d3bbe" id="rect10" width="6.71807" height="79.525116" x="53.110405" y="69.131561"></rect>
+									<rect style="a3843436df027e78e9d9119720bd20bd" id="rect10-3" width="6.71807" height="79.525116" x="73.26461" y="69.769463"></rect>
+									<rect style="5d9f931461e1b2f077dca7c24623f029" id="rect10-3-9" width="6.71807" height="79.525116" x="92.902031" y="69.344193"></rect>
+									<rect style="2dc389968458d20cdba47b4288d9071c" id="rect74" width="46.509716" height="11.056962" x="53.110405" y="148.65668"></rect>
+									<rect style="36e315b8cda95b8bbe2a58b163e2d92a" id="rect10-3-1" width="6.71807" height="79.525116" x="73.781395" y="158.6505"></rect>
+									<ellipse style="9b7a362afb0f31bf357fcd436891b81a" id="path96" cx="139.01102" cy="115.01494" rx="19.932734" ry="46.48711"></ellipse>
+									<rect style="31320948ba7911ba4bc81116109dfcfc" id="rect10-3-1-6" width="6.71807" height="79.525116" x="135.1774" y="160.98187"></rect>
+									<ellipse style="eec1c9598384444bf4d950debced46d9" id="path120" cx="148.97736" cy="103.84595" rx="3.3221223" ry="9.3577948"></ellipse>
+								</g>
+								</svg>
+
+						</a>
+					</div>
+					<div><a href="029faf961643b536e8a4e3dab3b30d76">La Cocina de la Abuela</a></div>
+				</div>
+
+				<nav>
+					<ul>                                       
+						<li><a href="402d8651e87c7875b276f812ac4bc3fd" class="activado">COCINAS</a></li>
+						<li><a href="fbf0f58170ee00be737f2db2d2e71677">PRESENTACIÓN</a></li>
+						<li><a href="7d0538d58b2e80b44d9ace9ad4adb6e2">ENLACES</a></li>
+					</ul>
+				</nav>
+
+	</header>
+
+
+	<main>
+
+
+		<ul class="breadcrumb">
+		  <li><a href="029faf961643b536e8a4e3dab3b30d76">Inicio</a></li>
+		  <li><a href="402d8651e87c7875b276f812ac4bc3fd">Categorías Cocina</a></li>
+		  <li id="100">Mazamorra-morada</li>
+		</ul>
+
+
+		<h1>Mazamorra morada</h1>
+
+		<article class="wrapper-detalle">
+				<aside>
+						
+						<h1>Receta</h1>
+
+						<dl>
+							
+							<dt><p><strong>Tiempo de cocinado:</strong></p></dt>
+
+								<dd><p>1 hora y media</p></dd>
+
+							<dt><p><strong>Ingredientes:</strong></p></dt>
+
+								<dd>
+									<p><strong>250 gr pasas</strong></p>
+									<p><strong>Piña entera</strong></p>
+									<p><strong>250 gramos de guindones</strong></p>
+									<p><strong>3 Manzanas</strong></p>
+									<p><strong>300 gramos de chuño</strong></p>
+									<p><strong>1 kg de maiz morado seco</strong></p>
+									<p><strong>250 gramos de azúcar</strong></p>
+									<p><strong>Canela en polvo al gusto</strong></p>
+									<p><strong>Cáscara de naranja</strong></p>
+									<p><strong>Canela en rama</strong></p>
+									<p><strong>Clavo de olor</strong></p>
+								</dd>
+
+							<dt><p><strong>Número de personas</strong></p></dt>
+
+							<dd>
+								<p><strong>Para: </strong>4 personas.</p>
+							</dd>
+
+
+							<dt><p><strong>Tipo de comida:</strong></p></dt>
+							<dd>
+								<p><strong>:Ligera: </strong>Para la merienda.</p>
+							</dd>
+
+
+						</dl>
+
+				</aside>
+
+				<section>
+
+					<h1>Cocinado:</h1>
+
+				    <div>
+						
+						<img srcset="3e38f4281e448f7581f9ba85b967d711 640w,42b98f2886926ee93e5b721d7399198c 1250w" sizes="(max-width: 768px) 95vw, 39vw" src="42b98f2886926ee93e5b721d7399198c" class="imagen-detalle" alt="Mazamorra morada">
+
+						
+						<p>	
+							Poner a hervir en una olla el kilo de maíz morado seco junto a las cáscaras de piña, clavo de olor y canela en rama
+							agregando también las cáscaras de naranja. El resultado es un zumo de color morado, apartarlo en una perola y ponerlo a 
+							hervir junto con las pasas, guindones, las manzanas peladas y picadas y dos rodajas de piña también picadas en cubos. Esperar 
+							que termine de hervir. Previamente el chuño diluido en agua, esa preparación echarla a lo de antes e ir removiendo y servir.
+
+						</p>
+
+
+					</div>
+
+ 
+				    <h1>Video</h1>
+
+				    <div class="video-receta">
+				    	<iframe src="ee10bc1fb581887b898f699fab7e25a0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+				    </div>
+
+				    <div><p><i>Mazamorra morada</i></p></div>
+
+					<h1>Otras recetas relacionadas:</h1>
+
+					<div><a href="584c551c057f8da990713ac5d067ff92">Ceviche peruano</a></div>
+					<div><a href="9a156503a1dc617666fe251508cc9bd2">Cabrito a la norteña </a></div>
+
+
+				</section>    
+		</article>
+
+    </main>
+
+	<footer>
+		
+		
+		<ul><li><a href="">Aviso Legal</a><span> · </span></li><li><a href="">Política de privacidad</a></li></ul>
+
+		<div>
+		
+		<ul><li>Mapa del sitio:</li></ul>	
+
+		<svg width="1500.5591" height="850.51971" viewbox="0 0 397.02292 225.03335" id="svg8">
+		<g style="a453bce72240b7b3e12e06c8bd1ea4d3">
+			<rect style="bd146353ba51a9f36d1739b404686f87" id="rect352-8" width="19.807438" height="12.886046" x="24.916321" y="177.01732"></rect>
+			<rect style="1abe57607986792fdfd48a197a3b6752" id="rect352-8-0" width="19.807438" height="12.886046" x="23.860241" y="12.419244"></rect>
+			<rect style="2d2ec4b312b192d460c8fa9b5331cfbb" id="rect352-8-6" width="19.807438" height="12.886046" x="24.724529" y="44.087463"></rect>
+			<rect style="718ff010963ef90c264f0379c495c895" id="rect352-8-3" width="19.807438" height="12.886046" x="24.85778" y="207.16136"></rect>
+			<rect style="7f918170251dce0273f372035caaef7d" id="rect352-8-6-2" width="19.807438" height="12.886046" x="54.321545" y="73.951981"></rect>
+			<rect style="c09b2c11b7b0f79b6f7aa0756accdc02" id="rect352-8-6-0" width="19.807438" height="12.886046" x="54.475475" y="103.76269"></rect>
+			<rect style="a5e4e3a3dd36225412065b4756bcd4eb" id="rect352-8-6-6" width="19.807438" height="12.886046" x="54.790928" y="132.65613"></rect>
+			<rect style="b9b35e2014c01bbf8443a751efd79c0b" id="rect352-8-6-1" width="19.807438" height="12.886046" x="238.38635" y="104.91351"></rect>
+			<rect style="91e6a6e788e649c4ad97dc1f7d63da77" id="rect352-8-6-5" width="19.807438" height="12.886046" x="238.49783" y="73.693672"></rect>
+			<rect style="61293b4b66363154363dfe6ec7555456" id="rect352-8-6-54" width="19.807438" height="12.886046" x="239.16774" y="136.3979"></rect>
+			<a href="029faf961643b536e8a4e3dab3b30d76">
+			<text xml:space="preserve" style="484a33920c0dc0a054746bcfe20d4036" x="43.667679" y="25.30529" id="text677"><tspan id="tspan675" x="43.667679" y="25.30529" style="ee17bb5ea90ba764c5f92b1560a6bca4">  Inicio</tspan>           </text>
+			</a>
+			<a href="402d8651e87c7875b276f812ac4bc3fd">
+			<text xml:space="preserve" style="76b441680d817ca4bcc85c01b05eb8f9" x="44.531967" y="56.973507" id="text681"><tspan id="tspan679" x="44.531967" y="56.973507" style="77b555c2e65e56dbae82555f94e662b0">  Cocinas</tspan></text>
+			</a>
+			<a href="fbf0f58170ee00be737f2db2d2e71677">
+			<text xml:space="preserve" style="2f7cdf1e280b43a44e833c7aa8ac07e0" x="44.723759" y="189.90337" id="text685"><tspan id="tspan683" x="44.723759" y="189.90337" style="81ed4bf755e5165a0421e95b6d1ee84e">  Presentación</tspan></text>
+			</a>
+			<a href="7d0538d58b2e80b44d9ace9ad4adb6e2">
+			<text xml:space="preserve" style="0470944dfc99a4b0d9db27d15949a67a" x="44.665218" y="220.04741" id="text689"><tspan id="tspan687" x="44.665218" y="220.04741" style="5f91e0a502a43fe060a7f76844c8ac51"> Enlaces</tspan></text>
+			</a>
+			<a href="966047ed52d4ec9bfb3ed0343dc9704e">
+			<text xml:space="preserve" style="46c6383b91183bd9c530480224a2ef8b" x="74.128975" y="86.838028" id="text693"><tspan id="tspan691" x="74.128975" y="86.838028" style="50db26b374d891650db55581d0136dc3">  Habas Catalana</tspan></text>
+			</a>
+			<a href="587610b398f59fb87b264f125264b877">
+			<text xml:space="preserve" style="4b08819447359a7270a562116ae62264" x="74.282906" y="116.64874" id="text697"><tspan id="tspan695" x="74.282906" y="116.64874" style="53092f971dc230da27ca5713fe1c8c40">  Potaje de Garbanzos</tspan></text>
+			</a>
+			<a href="77a77441439515a0b512f93e6d5d68d6">
+			<text xml:space="preserve" style="8b8bbd0064dd29f212ba7a7d33494aec" x="74.598366" y="145.54218" id="text701"><tspan id="tspan699" x="74.598366" y="145.54218" style="dfaf9faa001532ce604599f3c509123f">  Cocido de Garbanzos </tspan></text>
+			</a>
+			<a href="584c551c057f8da990713ac5d067ff92">
+			<text xml:space="preserve" style="0b5b1d449aecbddbaa120c18cda9762b" x="258.30527" y="86.57972" id="text705"><tspan id="tspan703" x="258.30527" y="86.57972" style="13c23da945e7fd2739beb2e8a38ee5f3">  Ceviche</tspan></text>
+			</a>
+			<a href="6ba70ce94574ad600367287e7c9ca6d9">
+			<text xml:space="preserve" style="dbf178614e9bea485d04f778ca91ea70" x="258.19379" y="117.79955" id="text709"><tspan id="tspan707" x="258.19379" y="117.79955" style="89eb4881b7c367e1417cdd4136e15c8f">  Mazamorra</tspan></text>
+			</a>
+			<a href="9a156503a1dc617666fe251508cc9bd2">
+			<text xml:space="preserve" style="a303783ba06fa58aaed8479e9b5ecfe9" x="258.97516" y="149.28395" id="text713"><tspan id="tspan711" x="258.97516" y="149.28395" style="f26f63e4e79554b5cd72dd1a10807f4c">  Cabrito a la norteña</tspan></text>
+			</a>
+		</g>
+	 	</svg>
+	 
+
+		</div>	
+
+		<ul><li><a href="">Facebook <i class="fab fa-facebook-f"> </i></a><span> · </span></li>
+				<li><a href="">Twitter <i class="fab fa-twitter"> </i></a><span> · </span></li>
+				<li><a href="">Youtube <i class="fab fa-youtube"></i></a></li></ul>
+
+		<ul>
+		   
+		   <li> &copy; 2020 Oscar del Aguila Giménez</li>
+
+		</ul>
+
+			
+
+   </footer>	
+
+   <a href="#cabecera"><div class="desplazador-arriba"><i class="fas fa-chevron-circle-up"></i></div></a>	
+
+</body>
+</html>
+
+
+
+
